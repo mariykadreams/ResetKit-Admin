@@ -34,6 +34,8 @@ export interface OrdersQueryParams {
   pageSize?: number
   dateFrom?: string
   dateTo?: string
+  timeFrom?: string
+  timeTo?: string
   minTotalAmount?: number
   maxTotalAmount?: number
   sortBy?: string

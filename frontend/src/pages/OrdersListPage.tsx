@@ -12,6 +12,8 @@ export default function OrdersListPage() {
   const [pageSize] = useState(20)
   const [dateFrom, setDateFrom] = useState('')
   const [dateTo, setDateTo] = useState('')
+  const [timeFrom, setTimeFrom] = useState('')
+  const [timeTo, setTimeTo] = useState('')
   const [minTotalAmount, setMinTotalAmount] = useState('')
   const [maxTotalAmount, setMaxTotalAmount] = useState('')
   const [loading, setLoading] = useState(true)
@@ -20,6 +22,8 @@ export default function OrdersListPage() {
     p?: number
     df?: string
     dt?: string
+    tf?: string
+    tt?: string
     min?: string
     max?: string
   }) {
@@ -27,6 +31,8 @@ export default function OrdersListPage() {
     const p = overrides?.p ?? page
     const df = overrides?.df ?? dateFrom
     const dt = overrides?.dt ?? dateTo
+    const tf = overrides?.tf ?? timeFrom
+    const tt = overrides?.tt ?? timeTo
     const min = overrides?.min ?? minTotalAmount
     const max = overrides?.max ?? maxTotalAmount
     try {
@@ -35,6 +41,8 @@ export default function OrdersListPage() {
         pageSize,
         dateFrom: df || undefined,
         dateTo: dt || undefined,
+        timeFrom: tf || undefined,
+        timeTo: tt || undefined,
         minTotalAmount: min ? parseFloat(min) : undefined,
         maxTotalAmount: max ? parseFloat(max) : undefined,
         sortBy: 'CreatedAt',
@@ -64,10 +72,12 @@ export default function OrdersListPage() {
   function handleClearFilters() {
     setDateFrom('')
     setDateTo('')
+    setTimeFrom('')
+    setTimeTo('')
     setMinTotalAmount('')
     setMaxTotalAmount('')
     setPage(1)
-    fetchOrders({ p: 1, df: '', dt: '', min: '', max: '' })
+    fetchOrders({ p: 1, df: '', dt: '', tf: '', tt: '', min: '', max: '' })
   }
 
   return (
@@ -77,10 +87,14 @@ export default function OrdersListPage() {
       <Filters
         dateFrom={dateFrom}
         dateTo={dateTo}
+        timeFrom={timeFrom}
+        timeTo={timeTo}
         minTotalAmount={minTotalAmount}
         maxTotalAmount={maxTotalAmount}
         onDateFromChange={setDateFrom}
         onDateToChange={setDateTo}
+        onTimeFromChange={setTimeFrom}
+        onTimeToChange={setTimeTo}
         onMinTotalAmountChange={setMinTotalAmount}
         onMaxTotalAmountChange={setMaxTotalAmount}
         onApply={handleApplyFilters}

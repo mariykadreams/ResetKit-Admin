@@ -1,3 +1,4 @@
+using System.Globalization;
 using Microsoft.EntityFrameworkCore;
 using ResetKit.Admin.Api.Data;
 using ResetKit.Admin.Api.Domain;
@@ -31,10 +32,16 @@ public class OrderRepository : IOrderRepository
         var q = _db.Orders.AsNoTracking();
 
         if (query.DateFrom.HasValue)
-            q = q.Where(o => o.CreatedAt >= query.DateFrom.Value);
+        {
+            var start = CombineDateAndTime(query.DateFrom.Value.Date, query.TimeFrom, endOfDay: false);
+            q = q.Where(o => o.CreatedAt >= start);
+        }
 
         if (query.DateTo.HasValue)
-            q = q.Where(o => o.CreatedAt <= query.DateTo.Value);
+        {
+            var end = CombineDateAndTime(query.DateTo.Value.Date, query.TimeTo, endOfDay: true);
+            q = q.Where(o => o.CreatedAt <= end);
+        }
 
         if (query.MinTotalAmount.HasValue)
             q = q.Where(o => o.TotalAmount >= query.MinTotalAmount.Value);
@@ -64,5 +71,17 @@ public class OrderRepository : IOrderRepository
         var totalPages = (int)Math.Ceiling(totalCount / (double)query.PageSize);
 
         return new OrdersPage(items, totalCount);
+    }
+
+    /// <summary>
+    /// Combines date with optional time string (HH:mm or HH:mm:ss).
+    /// If endOfDay and no time: returns end of that day (23:59:59.999).
+    /// If time provided: returns date + time (inclusive).
+    /// </summary>
+    private static DateTime CombineDateAndTime(DateTime date, string? time, bool endOfDay)
+    {
+        if (!string.IsNullOrWhiteSpace(time) && TimeSpan.TryParse(time, CultureInfo.InvariantCulture, out var ts))
+            return date.Add(ts);
+        return endOfDay ? date.Date.AddDays(1).AddTicks(-1) : date.Date;
     }
 }

@@ -15,6 +15,10 @@ public class OrdersQueryRequest
 
     public DateTime? DateFrom { get; set; }
     public DateTime? DateTo { get; set; }
+    /// <summary>Optional time for DateFrom, format HH:mm or HH:mm:ss.</summary>
+    public string? TimeFrom { get; set; }
+    /// <summary>Optional time for DateTo, format HH:mm or HH:mm:ss. Inclusive of this time.</summary>
+    public string? TimeTo { get; set; }
     public decimal? MinTotalAmount { get; set; }
     public decimal? MaxTotalAmount { get; set; }
 

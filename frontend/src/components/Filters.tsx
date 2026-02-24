@@ -1,10 +1,14 @@
 interface FiltersProps {
   dateFrom: string
   dateTo: string
+  timeFrom: string
+  timeTo: string
   minTotalAmount: string
   maxTotalAmount: string
   onDateFromChange: (v: string) => void
   onDateToChange: (v: string) => void
+  onTimeFromChange: (v: string) => void
+  onTimeToChange: (v: string) => void
   onMinTotalAmountChange: (v: string) => void
   onMaxTotalAmountChange: (v: string) => void
   onApply: () => void
@@ -14,10 +18,14 @@ interface FiltersProps {
 export default function Filters({
   dateFrom,
   dateTo,
+  timeFrom,
+  timeTo,
   minTotalAmount,
   maxTotalAmount,
   onDateFromChange,
   onDateToChange,
+  onTimeFromChange,
+  onTimeToChange,
   onMinTotalAmountChange,
   onMaxTotalAmountChange,
   onApply,
@@ -35,6 +43,15 @@ export default function Filters({
         />
       </div>
       <div>
+        <label className="block text-xs font-medium text-slate-400 mb-1">Time From</label>
+        <input
+          type="time"
+          value={timeFrom}
+          onChange={(e) => onTimeFromChange(e.target.value)}
+          className="px-3 py-2 rounded-md border border-slate-600 bg-slate-900 text-slate-200 text-sm focus:ring-2 focus:ring-primary-500 focus:border-transparent"
+        />
+      </div>
+      <div>
         <label className="block text-xs font-medium text-slate-400 mb-1">Date To</label>
         <input
           type="date"
@@ -44,7 +61,18 @@ export default function Filters({
         />
       </div>
       <div>
-        <label className="block text-xs font-medium text-slate-400 mb-1">Min Total ($)</label>
+        <label className="block text-xs font-medium text-slate-400 mb-1">Time To</label>
+        <input
+          type="time"
+          value={timeTo}
+          onChange={(e) => onTimeToChange(e.target.value)}
+          className="px-3 py-2 rounded-md border border-slate-600 bg-slate-900 text-slate-200 text-sm focus:ring-2 focus:ring-primary-500 focus:border-transparent"
+        />
+      </div>
+      <div>
+        <label className="block text-xs font-medium text-slate-400 mb-1" title="Filter by Total (Subtotal + Tax)">
+          Min Total ($, incl. tax)
+        </label>
         <input
           type="number"
           min="0"
@@ -56,7 +84,9 @@ export default function Filters({
         />
       </div>
       <div>
-        <label className="block text-xs font-medium text-slate-400 mb-1">Max Total ($)</label>
+        <label className="block text-xs font-medium text-slate-400 mb-1" title="Filter by Total (Subtotal + Tax)">
+          Max Total ($, incl. tax)
+        </label>
         <input
           type="number"
           min="0"
