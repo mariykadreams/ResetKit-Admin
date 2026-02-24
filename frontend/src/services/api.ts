@@ -12,6 +12,13 @@ export interface Order {
   latitude: number
   longitude: number
   subtotal: number
+  locationState?: string
+  locationCounty?: string
+  locationCity?: string
+  locationZip?: string
+  locationDistrict?: string
+  locationSource?: string
+  locationReportingCode?: string
   compositeTaxRate: number
   taxAmount: number
   totalAmount: number

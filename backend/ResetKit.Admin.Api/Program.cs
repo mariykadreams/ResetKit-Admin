@@ -23,6 +23,7 @@ builder.Services.AddDbContext<AppDbContext>(opts =>
 
 // DI: Repositories and Services
 builder.Services.AddScoped<IOrderRepository, OrderRepository>();
+builder.Services.AddHttpClient();
 builder.Services.AddScoped<ITaxService, TaxService>();
 builder.Services.AddScoped<IOrderService, OrderService>();
 

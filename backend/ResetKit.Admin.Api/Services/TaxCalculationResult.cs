@@ -5,6 +5,14 @@ namespace ResetKit.Admin.Api.Services;
 /// </summary>
 public record TaxCalculationResult
 {
+    public string? LocationState { get; init; }
+    public string? LocationCounty { get; init; }
+    public string? LocationCity { get; init; }
+    public string? LocationZip { get; init; }
+    public string? LocationDistrict { get; init; }
+    public string? LocationSource { get; init; }
+    public string? LocationReportingCode { get; init; }
+
     public decimal StateRate { get; init; }
     public decimal CountyRate { get; init; }
     public decimal CityRate { get; init; }

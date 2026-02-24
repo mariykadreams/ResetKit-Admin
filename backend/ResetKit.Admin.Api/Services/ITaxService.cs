@@ -8,7 +8,12 @@ public interface ITaxService
 {
     /// <summary>
     /// Calculates composite sales tax for a delivery at the given GPS coordinates.
-    /// In production, lat/long would be used to resolve actual NY jurisdictions.
+    /// Implementations may call external services (e.g. Nominatim, NY tax tables),
+    /// so this API is asynchronous.
     /// </summary>
-    TaxCalculationResult CalculateTax(decimal latitude, decimal longitude, decimal subtotal);
+    Task<TaxCalculationResult> CalculateTaxAsync(
+        decimal latitude,
+        decimal longitude,
+        decimal subtotal,
+        CancellationToken ct = default);
 }

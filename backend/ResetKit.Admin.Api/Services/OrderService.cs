@@ -31,7 +31,7 @@ public class OrderService : IOrderService
 
     public async Task<OrderResponse> CreateOrderAsync(CreateOrderRequest request, CancellationToken ct = default)
     {
-        var result = _taxService.CalculateTax(request.Latitude, request.Longitude, request.Subtotal);
+        var result = await _taxService.CalculateTaxAsync(request.Latitude, request.Longitude, request.Subtotal, ct);
 
         var order = new Order
         {
@@ -50,7 +50,15 @@ public class OrderService : IOrderService
         };
 
         order = await _orderRepo.AddAsync(order, ct);
-        return MapToResponse(order);
+        var response = MapToResponse(order);
+        response.LocationState = result.LocationState;
+        response.LocationCounty = result.LocationCounty;
+        response.LocationCity = result.LocationCity;
+        response.LocationZip = result.LocationZip;
+        response.LocationDistrict = result.LocationDistrict;
+        response.LocationSource = result.LocationSource;
+        response.LocationReportingCode = result.LocationReportingCode;
+        return response;
     }
 
     public async Task<OrdersPageResponse> GetOrdersAsync(OrdersQueryRequest query, CancellationToken ct = default)
@@ -108,7 +116,7 @@ public class OrderService : IOrderService
 
             try
             {
-                var result = _taxService.CalculateTax(lat, lng, subtotal);
+                var result = await _taxService.CalculateTaxAsync(lat, lng, subtotal, ct);
 
                 var order = new Order
                 {
