@@ -32,7 +32,7 @@ export default function Filters({
   onClear,
 }: FiltersProps) {
   return (
-    <div className="flex flex-wrap items-end gap-4 p-4 rounded-lg border border-slate-700/60 bg-slate-800/40 mb-6">
+    <div className="flex flex-wrap items-end gap-4">
       <div>
         <label className="block text-xs font-medium text-slate-400 mb-1">Date From</label>
         <input
