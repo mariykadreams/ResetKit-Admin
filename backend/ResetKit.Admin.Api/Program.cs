@@ -6,7 +6,6 @@ using ResetKit.Admin.Api.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c =>
@@ -26,6 +25,7 @@ builder.Services.AddScoped<IOrderRepository, OrderRepository>();
 builder.Services.AddHttpClient();
 builder.Services.AddScoped<ITaxService, TaxService>();
 builder.Services.AddScoped<IOrderService, OrderService>();
+builder.Services.AddSingleton<IImportProgressStore, InMemoryImportProgressStore>();
 
 // CORS
 builder.Services.AddCors(opts =>

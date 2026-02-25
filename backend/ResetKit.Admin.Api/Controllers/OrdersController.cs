@@ -13,10 +13,12 @@ namespace ResetKit.Admin.Api.Controllers;
 public class OrdersController : ControllerBase
 {
     private readonly IOrderService _orderService;
+    private readonly IImportProgressStore _importProgressStore;
 
-    public OrdersController(IOrderService orderService)
+    public OrdersController(IOrderService orderService, IImportProgressStore importProgressStore)
     {
         _orderService = orderService;
+        _importProgressStore = importProgressStore;
     }
 
     /// <summary>
@@ -25,7 +27,7 @@ public class OrdersController : ControllerBase
     [HttpPost("import")]
     [ProducesResponseType(typeof(ImportOrdersResponse), StatusCodes.Status200OK)]
     [ProducesResponseType(StatusCodes.Status400BadRequest)]
-    public async Task<ActionResult<ImportOrdersResponse>> ImportOrders(IFormFile file, CancellationToken ct)
+    public async Task<ActionResult<ImportOrdersResponse>> ImportOrders(IFormFile file, CancellationToken ct, [FromQuery] Guid? progressId = null)
     {
         if (file == null || file.Length == 0)
             return BadRequest(new { message = "No file uploaded." });
@@ -34,8 +36,23 @@ public class OrdersController : ControllerBase
             return BadRequest(new { message = "File must be a CSV." });
 
         await using var stream = file.OpenReadStream();
-        var result = await _orderService.ImportFromCsvAsync(stream, ct);
+        var result = await _orderService.ImportFromCsvAsync(stream, ct, progressId);
         return Ok(result);
+    }
+
+    /// <summary>
+    /// Get real-time progress for an ongoing CSV import.
+    /// </summary>
+    [HttpGet("import/progress/{progressId:guid}")]
+    [ProducesResponseType(typeof(ImportOrdersProgressResponse), StatusCodes.Status200OK)]
+    [ProducesResponseType(StatusCodes.Status404NotFound)]
+    public ActionResult<ImportOrdersProgressResponse> GetImportProgress(Guid progressId)
+    {
+        var progress = _importProgressStore.Get(progressId);
+        if (progress is null)
+            return NotFound();
+
+        return Ok(progress);
     }
 
     /// <summary>

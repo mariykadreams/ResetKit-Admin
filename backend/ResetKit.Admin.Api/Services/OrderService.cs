@@ -22,11 +22,13 @@ public class OrderService : IOrderService
     }
     private readonly IOrderRepository _orderRepo;
     private readonly ITaxService _taxService;
+    private readonly IImportProgressStore _progressStore;
 
-    public OrderService(IOrderRepository orderRepo, ITaxService taxService)
+    public OrderService(IOrderRepository orderRepo, ITaxService taxService, IImportProgressStore progressStore)
     {
         _orderRepo = orderRepo;
         _taxService = taxService;
+        _progressStore = progressStore;
     }
 
     public async Task<OrderResponse> CreateOrderAsync(CreateOrderRequest request, CancellationToken ct = default)
@@ -72,7 +74,7 @@ public class OrderService : IOrderService
         };
     }
 
-    public async Task<ImportOrdersResponse> ImportFromCsvAsync(Stream csvStream, CancellationToken ct = default)
+    public async Task<ImportOrdersResponse> ImportFromCsvAsync(Stream csvStream, CancellationToken ct = default, Guid? progressId = null)
     {
         var errors = new List<string>();
         var importedCount = 0;
@@ -88,6 +90,16 @@ public class OrderService : IOrderService
             HeaderValidated = null
         };
 
+        int? totalRows = null;
+        if (progressId.HasValue && csvStream.CanSeek)
+        {
+            totalRows = CountDataRows(csvStream);
+            if (totalRows > 0)
+            {
+                _progressStore.Start(progressId.Value, totalRows.Value);
+            }
+        }
+
         if (csvStream.CanSeek)
             csvStream.Position = 0;
         using var reader = new StreamReader(csvStream, Encoding.UTF8);
@@ -98,54 +110,68 @@ public class OrderService : IOrderService
 
         try
         {
-        await foreach (var row in records.WithCancellation(ct))
-        {
-            if (!decimal.TryParse(row.Latitude, NumberStyles.Any, CultureInfo.InvariantCulture, out var lat) ||
-                !decimal.TryParse(row.Longitude, NumberStyles.Any, CultureInfo.InvariantCulture, out var lng) ||
-                !decimal.TryParse(row.Subtotal, NumberStyles.Any, CultureInfo.InvariantCulture, out var subtotal))
+            await foreach (var row in records.WithCancellation(ct))
             {
-                errors.Add($"Invalid row: lat={row.Latitude}, lng={row.Longitude}, subtotal={row.Subtotal}");
-                continue;
-            }
+                var hadError = false;
 
-            if (lat < -90 || lat > 90 || lng < -180 || lng > 180 || subtotal <= 0)
-            {
-                errors.Add($"Invalid values: lat={lat}, lng={lng}, subtotal={subtotal}");
-                continue;
-            }
-
-            try
-            {
-                var result = await _taxService.CalculateTaxAsync(lat, lng, subtotal, ct);
-
-                var order = new Order
+                if (!decimal.TryParse(row.Latitude, NumberStyles.Any, CultureInfo.InvariantCulture, out var lat) ||
+                    !decimal.TryParse(row.Longitude, NumberStyles.Any, CultureInfo.InvariantCulture, out var lng) ||
+                    !decimal.TryParse(row.Subtotal, NumberStyles.Any, CultureInfo.InvariantCulture, out var subtotal))
                 {
-                    Latitude = lat,
-                    Longitude = lng,
-                    Subtotal = subtotal,
-                    CompositeTaxRate = result.CompositeTaxRate,
-                    TaxAmount = result.TaxAmount,
-                    TotalAmount = result.TotalAmount,
-                    StateRate = result.StateRate,
-                    CountyRate = result.CountyRate,
-                    CityRate = result.CityRate,
-                    SpecialRate = result.SpecialRate,
-                    Jurisdictions = result.Jurisdictions,
-                    CreatedAt = ParseTimestamp(row.Timestamp) ?? DateTime.UtcNow
-                };
+                    errors.Add($"Invalid row: lat={row.Latitude}, lng={row.Longitude}, subtotal={row.Subtotal}");
+                    hadError = true;
+                }
+                else if (lat < -90 || lat > 90 || lng < -180 || lng > 180 || subtotal <= 0)
+                {
+                    errors.Add($"Invalid values: lat={lat}, lng={lng}, subtotal={subtotal}");
+                    hadError = true;
+                }
+                else
+                {
+                    try
+                    {
+                        var result = await _taxService.CalculateTaxAsync(lat, lng, subtotal, ct);
 
-                await _orderRepo.AddAsync(order, ct);
-                importedCount++;
+                        var order = new Order
+                        {
+                            Latitude = lat,
+                            Longitude = lng,
+                            Subtotal = subtotal,
+                            CompositeTaxRate = result.CompositeTaxRate,
+                            TaxAmount = result.TaxAmount,
+                            TotalAmount = result.TotalAmount,
+                            StateRate = result.StateRate,
+                            CountyRate = result.CountyRate,
+                            CityRate = result.CityRate,
+                            SpecialRate = result.SpecialRate,
+                            Jurisdictions = result.Jurisdictions,
+                            CreatedAt = ParseTimestamp(row.Timestamp) ?? DateTime.UtcNow
+                        };
+
+                        await _orderRepo.AddAsync(order, ct);
+                        importedCount++;
+                    }
+                    catch (Exception ex)
+                    {
+                        errors.Add($"Row error: {ex.Message}");
+                        hadError = true;
+                    }
+                }
+
+                if (progressId.HasValue && totalRows.HasValue)
+                {
+                    _progressStore.Increment(progressId.Value, hadError);
+                }
             }
-            catch (Exception ex)
-            {
-                errors.Add($"Row error: {ex.Message}");
-            }
-        }
         }
         catch (Exception ex)
         {
             errors.Add($"CSV parse error: {ex.Message}");
+        }
+
+        if (progressId.HasValue && totalRows.HasValue)
+        {
+            _progressStore.Complete(progressId.Value, importedCount, errors.Count);
         }
 
         return new ImportOrdersResponse { ImportedCount = importedCount, Errors = errors };
@@ -159,6 +185,28 @@ public class OrderService : IOrderService
         stream.Position = start;
         if (string.IsNullOrEmpty(firstLine)) return ",";
         return firstLine.Contains('\t') ? "\t" : ",";
+    }
+
+    private static int CountDataRows(Stream stream)
+    {
+        if (!stream.CanSeek)
+            return 0;
+
+        var start = stream.Position;
+        using var reader = new StreamReader(stream, Encoding.UTF8, leaveOpen: true);
+
+        // Skip header
+        _ = reader.ReadLine();
+
+        var rows = 0;
+        while (!reader.EndOfStream)
+        {
+            _ = reader.ReadLine();
+            rows++;
+        }
+
+        stream.Position = start;
+        return rows;
     }
 
     private static DateTime? ParseTimestamp(string? s)

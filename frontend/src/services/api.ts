@@ -60,6 +60,15 @@ export interface ImportOrdersResponse {
   errors: string[]
 }
 
+export interface ImportOrdersProgress {
+  progressId: string
+  totalRows: number
+  processedRows: number
+  importedCount: number
+  errorCount: number
+  completed: boolean
+}
+
 export const ordersApi = {
   getOrders: (params?: OrdersQueryParams) =>
     api.get<OrdersPageResponse>('/orders', { params }),
@@ -67,11 +76,17 @@ export const ordersApi = {
   createOrder: (body: CreateOrderRequest) =>
     api.post<Order>('/orders', body),
 
-  importOrders: (file: File) => {
+  importOrders: (file: File, progressId?: string) => {
     const form = new FormData()
     form.append('file', file)
-    return axios.post<ImportOrdersResponse>(`${API_BASE}/orders/import`, form)
+    const url = progressId
+      ? `${API_BASE}/orders/import?progressId=${progressId}`
+      : `${API_BASE}/orders/import`
+    return axios.post<ImportOrdersResponse>(url, form)
   },
+
+  getImportProgress: (progressId: string) =>
+    api.get<ImportOrdersProgress>(`/orders/import/progress/${progressId}`),
 }
 
 export default api
