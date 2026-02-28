@@ -22,7 +22,7 @@ builder.Services.AddDbContext<AppDbContext>(opts =>
 
 // DI: Repositories and Services
 builder.Services.AddScoped<IOrderRepository, OrderRepository>();
-builder.Services.AddHttpClient();
+builder.Services.AddSingleton<IGeoLocationService, LocalGeoLocationService>();
 builder.Services.AddScoped<ITaxService, TaxService>();
 builder.Services.AddScoped<IOrderService, OrderService>();
 builder.Services.AddSingleton<IImportProgressStore, InMemoryImportProgressStore>();

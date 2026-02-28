@@ -1,0 +1,1615 @@
+ID,STATE_CODE,STATE_NAME,CITY,COUNTY,LATITUDE,LONGITUDE
+17889,NY,New York,Accord,Ulster,41.808308,-74.235336
+17890,NY,New York,Acra,Greene,42.330367,-74.085723
+17891,NY,New York,Adams,Jefferson,43.81614,-76.054302
+17892,NY,New York,Adams Basin,Monroe,43.190644,-77.853905
+17893,NY,New York,Adams Center,Jefferson,43.863106,-76.00415
+17894,NY,New York,Addison,Steuben,42.09825,-77.266027
+17895,NY,New York,Adirondack,Warren,43.716479,-73.782486
+17896,NY,New York,Afton,Chenango,42.241737,-75.536604
+17897,NY,New York,Akron,Erie,43.024944,-78.508365
+17898,NY,New York,Albany,Albany,42.6525,-73.7566
+17899,NY,New York,Albertson,Nassau,40.77032,-73.651419
+17900,NY,New York,Albion,Orleans,43.239827,-78.206846
+17901,NY,New York,Alcove,Albany,42.453818,-74.034721
+17902,NY,New York,Alden,Erie,42.89839,-78.525707
+17903,NY,New York,Alder Creek,Oneida,43.415659,-75.213748
+17904,NY,New York,Alexander,Genesee,42.915851,-78.25889
+17905,NY,New York,Alexandria Bay,Jefferson,44.326982,-75.930619
+17906,NY,New York,Alfred,Allegany,42.255165,-77.79295
+17907,NY,New York,Alfred Station,Allegany,42.255799,-77.778084
+17908,NY,New York,Allegany,Cattaraugus,42.091827,-78.499883
+17909,NY,New York,Allentown,Allegany,42.083611,-78.064722
+17910,NY,New York,Alma,Allegany,42.016859,-78.040012
+17911,NY,New York,Almond,Allegany,42.316036,-77.777965
+17912,NY,New York,Alpine,Schuyler,42.351014,-76.734775
+17913,NY,New York,Alplaus,Schenectady,42.857329,-73.900188
+17914,NY,New York,Altamont,Albany,42.70627,-74.019339
+17915,NY,New York,Altmar,Oswego,43.497022,-75.971934
+17916,NY,New York,Alton,Wayne,43.211111,-76.980833
+17917,NY,New York,Altona,Clinton,44.881584,-73.640767
+17918,NY,New York,Amagansett,Suffolk,40.973611,-72.144167
+17919,NY,New York,Amawalk,Westchester,41.294618,-73.761079
+17920,NY,New York,Amenia,Dutchess,41.844695,-73.554158
+17921,NY,New York,Amityville,Suffolk,40.684197,-73.417106
+17922,NY,New York,Amsterdam,Montgomery,42.948822,-74.18393
+17923,NY,New York,Ancram,Columbia,42.085093,-73.642368
+17924,NY,New York,Ancramdale,Columbia,42.038103,-73.58187
+17925,NY,New York,Andes,Delaware,42.156925,-74.788726
+17926,NY,New York,Andover,Allegany,42.157454,-77.792008
+17927,NY,New York,Angelica,Allegany,42.326339,-77.994671
+17928,NY,New York,Angola,Erie,42.636581,-79.049651
+17929,NY,New York,Annandale On Hudson,Dutchess,41.995278,-73.831111
+17930,NY,New York,Antwerp,Jefferson,44.235775,-75.600484
+17931,NY,New York,Apalachin,Tioga,42.055579,-76.15194
+17932,NY,New York,Appleton,Niagara,43.310535,-78.637217
+17933,NY,New York,Apulia Station,Onondaga,42.818611,-76.072778
+17934,NY,New York,Aquebogue,Suffolk,40.944444,-72.6275
+17935,NY,New York,Arcade,Wyoming,42.562995,-78.413418
+17936,NY,New York,Arden,Orange,41.274444,-74.153333
+17937,NY,New York,Ardsley,Westchester,41.011332,-73.841311
+17938,NY,New York,Ardsley On Hudson,Westchester,41.026111,-73.870833
+17939,NY,New York,Argyle,Washington,43.238084,-73.464076
+17940,NY,New York,Arkport,Steuben,42.422466,-77.691778
+17941,NY,New York,Arkville,Delaware,42.082262,-74.554453
+17942,NY,New York,Armonk,Westchester,41.136002,-73.700942
+17943,NY,New York,Arverne,Queens,40.59257,-73.797446
+17944,NY,New York,Ashland,Greene,42.237174,-74.307925
+17945,NY,New York,Ashville,Chautauqua,42.108376,-79.405624
+17946,NY,New York,Astoria,Queens,40.77063,-73.926462
+17947,NY,New York,Athens,Greene,42.2736,-73.815175
+17948,NY,New York,Athol,Warren,43.483872,-73.881695
+17949,NY,New York,Athol Springs,Erie,42.769722,-78.866667
+17950,NY,New York,Atlanta,Steuben,42.556269,-77.480091
+17951,NY,New York,Atlantic Beach,Nassau,40.588652,-73.725545
+17952,NY,New York,Attica,Wyoming,42.849918,-78.279826
+17953,NY,New York,Au Sable Forks,Clinton,44.44994,-73.685672
+17954,NY,New York,Auburn,Cayuga,42.929958,-76.562605
+17955,NY,New York,Auriesville,Montgomery,42.929444,-74.316944
+17956,NY,New York,Aurora,Cayuga,42.747231,-76.67749
+17957,NY,New York,Austerlitz,Columbia,42.322272,-73.454965
+17958,NY,New York,Ava,Oneida,43.344519,-75.450919
+17959,NY,New York,Averill Park,Rensselaer,42.636511,-73.550437
+17960,NY,New York,Avoca,Steuben,42.41513,-77.434254
+17961,NY,New York,Avon,Livingston,42.903034,-77.727398
+17962,NY,New York,Babylon,Suffolk,40.634183,-73.324583
+17963,NY,New York,Bainbridge,Chenango,42.311975,-75.489411
+17964,NY,New York,Bakers Mills,Warren,43.614722,-74.025278
+17965,NY,New York,Baldwin,Nassau,40.654755,-73.609688
+17966,NY,New York,Baldwin Place,Westchester,41.3475,-73.7625
+17967,NY,New York,Baldwinsville,Onondaga,43.162039,-76.323718
+17968,NY,New York,Ballston Lake,Saratoga,42.919176,-73.855171
+17969,NY,New York,Ballston Spa,Saratoga,43.004956,-73.84858
+17970,NY,New York,Bangall,Dutchess,41.875556,-73.691667
+17971,NY,New York,Barker,Niagara,43.336779,-78.542004
+17972,NY,New York,Barneveld,Oneida,43.223697,-75.161156
+17973,NY,New York,Barrytown,Dutchess,42.0006,-73.921484
+17974,NY,New York,Barryville,Sullivan,41.491162,-74.915234
+17975,NY,New York,Barton,Tioga,42.069534,-76.398349
+17976,NY,New York,Basom,Genesee,43.080724,-78.395143
+17977,NY,New York,Batavia,Genesee,43.000316,-78.192869
+17978,NY,New York,Bath,Steuben,42.345451,-77.323255
+17979,NY,New York,Bay Shore,Suffolk,40.733744,-73.252708
+17980,NY,New York,Bayport,Suffolk,40.744408,-73.054207
+17981,NY,New York,Bayside,Queens,40.789967,-73.777244
+17982,NY,New York,Bayville,Nassau,40.907382,-73.560141
+17983,NY,New York,Beacon,Dutchess,41.509681,-73.963384
+17984,NY,New York,Bear Mountain,Rockland,41.306734,-73.996108
+17985,NY,New York,Bearsville,Ulster,42.041991,-74.171298
+17986,NY,New York,Beaver Dams,Schuyler,42.279763,-76.971953
+17987,NY,New York,Beaver Falls,Lewis,43.879722,-75.445833
+17988,NY,New York,Bedford,Westchester,41.190913,-73.635548
+17989,NY,New York,Bedford Hills,Westchester,41.234439,-73.691517
+17990,NY,New York,Belfast,Allegany,42.320013,-78.094281
+17991,NY,New York,Bellerose,Queens,40.734735,-73.723018
+17992,NY,New York,Belleville,Jefferson,43.785373,-76.115053
+17993,NY,New York,Bellmore,Nassau,40.677028,-73.534517
+17994,NY,New York,Bellona,Yates,42.755442,-77.021737
+17995,NY,New York,Bellport,Suffolk,40.77327,-72.946891
+17996,NY,New York,Bellvale,Orange,41.250278,-74.311111
+17997,NY,New York,Belmont,Allegany,42.233409,-78.01103
+17998,NY,New York,Bemus Point,Chautauqua,42.151346,-79.35808
+17999,NY,New York,Bergen,Genesee,43.086937,-77.96033
+18000,NY,New York,Berkshire,Tioga,42.307435,-76.192008
+18001,NY,New York,Berlin,Rensselaer,42.691893,-73.370186
+18002,NY,New York,Berne,Albany,42.610848,-74.146577
+18003,NY,New York,Bernhards Bay,Oswego,43.271722,-75.937299
+18004,NY,New York,Bethel,Sullivan,41.669326,-74.893984
+18005,NY,New York,Bethpage,Nassau,40.740014,-73.485727
+18006,NY,New York,Bible School Park,Broome,42.114722,-76.074722
+18007,NY,New York,Big Flats,Chemung,42.145509,-76.952721
+18008,NY,New York,Big Indian,Ulster,42.143884,-74.446655
+18009,NY,New York,Billings,Dutchess,41.671111,-73.763611
+18010,NY,New York,Binghamton,Broome,42.146307,-75.886517
+18011,NY,New York,Black Creek,Allegany,42.285528,-78.231249
+18012,NY,New York,Black River,Jefferson,44.004156,-75.795777
+18013,NY,New York,Blauvelt,Rockland,41.062597,-73.962924
+18014,NY,New York,Bliss,Wyoming,42.579936,-78.258084
+18015,NY,New York,Blodgett Mills,Cortland,42.568333,-76.126111
+18016,NY,New York,Bloomfield,Ontario,42.885101,-77.459983
+18017,NY,New York,Blooming Grove,Orange,41.409167,-74.195556
+18018,NY,New York,Bloomingburg,Sullivan,41.564427,-74.430351
+18019,NY,New York,Bloomingdale,Essex,44.398477,-74.08293
+18020,NY,New York,Bloomington,Ulster,41.856165,-74.066889
+18021,NY,New York,Bloomville,Delaware,42.352236,-74.807118
+18022,NY,New York,Blossvale,Oneida,43.230293,-75.687313
+18023,NY,New York,Blue Mountain Lake,Hamilton,43.837499,-74.429831
+18024,NY,New York,Blue Point,Suffolk,40.750089,-73.035213
+18025,NY,New York,Bohemia,Suffolk,40.767788,-73.116339
+18026,NY,New York,Boiceville,Ulster,42.004761,-74.265808
+18027,NY,New York,Bolivar,Allegany,42.070442,-78.144834
+18028,NY,New York,Bolton Landing,Warren,43.576641,-73.671392
+18029,NY,New York,Bombay,Franklin,44.947861,-74.594737
+18030,NY,New York,Boonville,Oneida,43.478615,-75.343973
+18031,NY,New York,Boston,Erie,42.631384,-78.73909
+18032,NY,New York,Bouckville,Madison,42.894024,-75.567841
+18033,NY,New York,Bovina Center,Delaware,42.27094,-74.766112
+18034,NY,New York,Bowmansville,Erie,42.947826,-78.682961
+18035,NY,New York,Bradford,Schuyler,42.382517,-77.09134
+18036,NY,New York,Brainard,Rensselaer,42.405101,-73.615874
+18037,NY,New York,Brainardsville,Franklin,44.857778,-74.033889
+18038,NY,New York,Branchport,Yates,42.606537,-77.205165
+18039,NY,New York,Brant,Erie,42.588333,-79.018056
+18040,NY,New York,Brant Lake,Warren,43.698875,-73.720458
+18041,NY,New York,Brantingham,Lewis,43.710278,-75.4025
+18042,NY,New York,Brasher Falls,Saint Lawrence,44.846718,-74.747303
+18043,NY,New York,Breesport,Chemung,42.19392,-76.73612
+18044,NY,New York,Breezy Point,Queens,40.560032,-73.914873
+18045,NY,New York,Brentwood,Suffolk,40.777918,-73.248189
+18046,NY,New York,Brewerton,Onondaga,43.225194,-76.135132
+18047,NY,New York,Brewster,Putnam,41.409704,-73.599179
+18048,NY,New York,Briarcliff Manor,Westchester,41.144364,-73.834956
+18049,NY,New York,Bridgehampton,Suffolk,40.936667,-72.302778
+18050,NY,New York,Bridgeport,Onondaga,43.159015,-75.970009
+18051,NY,New York,Bridgewater,Oneida,42.879167,-75.251389
+18052,NY,New York,Brier Hill,Saint Lawrence,44.552542,-75.672203
+18053,NY,New York,Brightwaters,Suffolk,40.727957,-73.264639
+18054,NY,New York,Broadalbin,Fulton,43.072687,-74.168367
+18055,NY,New York,Brockport,Monroe,43.21284,-77.936797
+18056,NY,New York,Brocton,Chautauqua,42.393973,-79.43443
+18057,NY,New York,Bronx,Bronx,40.8222,-73.921735
+18058,NY,New York,Bronxville,Westchester,40.939133,-73.835332
+18059,NY,New York,Brookfield,Madison,42.807538,-75.343859
+18060,NY,New York,Brookhaven,Suffolk,40.78428,-72.892125
+18061,NY,New York,Brooklyn,Kings,40.694021,-73.99034
+18062,NY,New York,Brooktondale,Tompkins,42.37653,-76.366844
+18063,NY,New York,Brownville,Jefferson,44.006944,-75.984444
+18064,NY,New York,Brushton,Franklin,44.828212,-74.522274
+18065,NY,New York,Buchanan,Westchester,41.258285,-73.941238
+18066,NY,New York,Buffalo,Erie,42.896659,-78.884575
+18067,NY,New York,Bullville,Orange,41.544167,-74.361944
+18068,NY,New York,Burdett,Schuyler,42.439442,-76.829219
+18069,NY,New York,Burke,Franklin,44.917722,-74.173116
+18070,NY,New York,Burlingham,Sullivan,41.59,-74.3825
+18071,NY,New York,Burlington Flats,Otsego,42.75162,-75.169044
+18072,NY,New York,Burnt Hills,Saratoga,42.932902,-73.896043
+18073,NY,New York,Burt,Niagara,43.322089,-78.714097
+18074,NY,New York,Buskirk,Rensselaer,42.960134,-73.449677
+18075,NY,New York,Byron,Genesee,43.073794,-78.062912
+18076,NY,New York,Cadyville,Clinton,44.686473,-73.670242
+18077,NY,New York,Cairo,Greene,42.30965,-74.01154
+18078,NY,New York,Calcium,Jefferson,44.026484,-75.849884
+18079,NY,New York,Caledonia,Livingston,42.956661,-77.849295
+18080,NY,New York,Callicoon,Sullivan,41.7754,-75.025688
+18081,NY,New York,Callicoon Center,Sullivan,41.836667,-74.946944
+18082,NY,New York,Calverton,Suffolk,40.929662,-72.74229
+18083,NY,New York,Cambria Heights,Queens,40.694741,-73.737445
+18084,NY,New York,Cambridge,Washington,43.046585,-73.381375
+18085,NY,New York,Camden,Oneida,43.339197,-75.754258
+18086,NY,New York,Cameron,Steuben,42.21284,-77.440341
+18087,NY,New York,Cameron Mills,Steuben,42.192547,-77.364976
+18088,NY,New York,Camillus,Onondaga,43.041651,-76.280728
+18089,NY,New York,Campbell,Steuben,42.238569,-77.206619
+18090,NY,New York,Campbell Hall,Orange,41.442993,-74.250466
+18091,NY,New York,Canaan,Columbia,42.413168,-73.415889
+18092,NY,New York,Canajoharie,Montgomery,42.88239,-74.583522
+18093,NY,New York,Canandaigua,Ontario,42.868866,-77.284561
+18094,NY,New York,Canaseraga,Allegany,42.458504,-77.795374
+18095,NY,New York,Canastota,Madison,43.087764,-75.760197
+18096,NY,New York,Candor,Tioga,42.206274,-76.332196
+18097,NY,New York,Caneadea,Allegany,42.370304,-78.197321
+18098,NY,New York,Canisteo,Steuben,42.263503,-77.589706
+18099,NY,New York,Canton,Saint Lawrence,44.592442,-75.162792
+18100,NY,New York,Cape Vincent,Jefferson,44.124419,-76.316443
+18101,NY,New York,Carle Place,Nassau,40.75115,-73.611941
+18102,NY,New York,Carlisle,Schoharie,42.749754,-74.456284
+18103,NY,New York,Carmel,Putnam,41.443216,-73.681526
+18104,NY,New York,Caroga Lake,Fulton,43.192159,-74.516915
+18105,NY,New York,Carthage,Jefferson,43.981039,-75.616008
+18106,NY,New York,Cassadaga,Chautauqua,42.350356,-79.299282
+18107,NY,New York,Cassville,Oneida,42.906931,-75.260704
+18108,NY,New York,Castile,Wyoming,42.635883,-78.054728
+18109,NY,New York,Castle Creek,Broome,42.256805,-75.908746
+18110,NY,New York,Castle Point,Dutchess,41.546111,-73.96
+18111,NY,New York,Castleton On Hudson,Rensselaer,42.538243,-73.709529
+18112,NY,New York,Castorland,Lewis,43.88432,-75.460432
+18113,NY,New York,Cato,Cayuga,43.179443,-76.564791
+18114,NY,New York,Catskill,Greene,42.227598,-73.898536
+18115,NY,New York,Cattaraugus,Cattaraugus,42.333291,-78.888528
+18116,NY,New York,Cayuga,Cayuga,42.914198,-76.702402
+18117,NY,New York,Cayuta,Schuyler,42.277445,-76.697367
+18118,NY,New York,Cazenovia,Madison,42.937955,-75.839229
+18119,NY,New York,Cedarhurst,Nassau,40.623619,-73.726404
+18120,NY,New York,Celoron,Chautauqua,42.109444,-79.283333
+18121,NY,New York,Center Moriches,Suffolk,40.799657,-72.797048
+18122,NY,New York,Centereach,Suffolk,40.870508,-73.082163
+18123,NY,New York,Centerport,Suffolk,40.892899,-73.3754
+18124,NY,New York,Centerville,Allegany,42.479722,-78.25
+18125,NY,New York,Central Bridge,Schoharie,42.73696,-74.345107
+18126,NY,New York,Central Islip,Suffolk,40.786618,-73.196145
+18127,NY,New York,Central Square,Oswego,43.308986,-76.184852
+18128,NY,New York,Central Valley,Orange,41.326836,-74.122036
+18129,NY,New York,Ceres,Allegany,41.99939,-78.272686
+18130,NY,New York,Chadwicks,Oneida,43.022563,-75.265645
+18131,NY,New York,Chaffee,Erie,42.560492,-78.502543
+18132,NY,New York,Champlain,Clinton,44.977292,-73.446603
+18133,NY,New York,Chappaqua,Westchester,41.170497,-73.771458
+18134,NY,New York,Charlotteville,Schoharie,42.533034,-74.681863
+18135,NY,New York,Chase Mills,Saint Lawrence,44.867246,-75.073002
+18136,NY,New York,Chateaugay,Franklin,44.908768,-74.074098
+18137,NY,New York,Chatham,Columbia,42.349578,-73.587281
+18138,NY,New York,Chaumont,Jefferson,44.08481,-76.123163
+18139,NY,New York,Chautauqua,Chautauqua,42.209722,-79.466944
+18140,NY,New York,Chazy,Clinton,44.888379,-73.450076
+18141,NY,New York,Chelsea,Dutchess,41.553611,-73.967222
+18142,NY,New York,Chemung,Chemung,42.039243,-76.620224
+18143,NY,New York,Chenango Bridge,Broome,42.166667,-75.862778
+18144,NY,New York,Chenango Forks,Broome,42.263659,-75.824236
+18145,NY,New York,Cherry Creek,Chautauqua,42.312725,-79.120275
+18146,NY,New York,Cherry Plain,Rensselaer,42.666111,-73.376944
+18147,NY,New York,Cherry Valley,Otsego,42.782315,-74.744439
+18148,NY,New York,Chester,Orange,41.355381,-74.265116
+18149,NY,New York,Chestertown,Warren,43.645053,-73.806641
+18150,NY,New York,Chichester,Ulster,42.087965,-74.281565
+18151,NY,New York,Childwold,Saint Lawrence,44.286715,-74.675878
+18152,NY,New York,Chippewa Bay,Saint Lawrence,44.441944,-75.757222
+18153,NY,New York,Chittenango,Madison,43.05524,-75.87684
+18154,NY,New York,Churchville,Monroe,43.089617,-77.860339
+18155,NY,New York,Churubusco,Clinton,44.943232,-73.935484
+18156,NY,New York,Cicero,Onondaga,43.170693,-76.096185
+18157,NY,New York,Cincinnatus,Cortland,42.538539,-75.903029
+18158,NY,New York,Circleville,Orange,41.524387,-74.385044
+18159,NY,New York,Clarence,Erie,42.980965,-78.616228
+18160,NY,New York,Clarence Center,Erie,43.0362,-78.63903
+18161,NY,New York,Clarendon,Orleans,43.193333,-78.065
+18162,NY,New York,Clark Mills,Oneida,43.092222,-75.38
+18163,NY,New York,Clarkson,Monroe,43.233056,-77.927778
+18164,NY,New York,Clarksville,Albany,42.566974,-73.968775
+18165,NY,New York,Claryville,Sullivan,41.965666,-74.529287
+18166,NY,New York,Claverack,Columbia,42.2183,-73.722844
+18167,NY,New York,Clay,Onondaga,43.173734,-76.170748
+18168,NY,New York,Clayton,Jefferson,44.217016,-76.107056
+18169,NY,New York,Clayville,Oneida,42.97119,-75.206126
+18170,NY,New York,Clemons,Washington,43.643544,-73.432613
+18171,NY,New York,Cleveland,Oswego,43.243199,-75.853691
+18172,NY,New York,Cleverdale,Warren,43.477222,-73.643056
+18173,NY,New York,Clifton Park,Saratoga,42.849865,-73.785094
+18174,NY,New York,Clifton Springs,Ontario,42.963175,-77.143975
+18175,NY,New York,Climax,Greene,42.370808,-73.862459
+18176,NY,New York,Clinton,Oneida,43.05856,-75.38079
+18177,NY,New York,Clinton Corners,Dutchess,41.869262,-73.765867
+18178,NY,New York,Clintondale,Ulster,41.674939,-74.055713
+18179,NY,New York,Clockville,Madison,43.041667,-75.745
+18180,NY,New York,Clyde,Wayne,43.085549,-76.872464
+18181,NY,New York,Clymer,Chautauqua,42.055699,-79.668532
+18182,NY,New York,Cobleskill,Schoharie,42.684047,-74.493866
+18183,NY,New York,Cochecton,Sullivan,41.698208,-74.980687
+18184,NY,New York,Cochecton Center,Sullivan,41.645776,-74.977116
+18185,NY,New York,Coeymans,Albany,42.473889,-73.792778
+18186,NY,New York,Coeymans Hollow,Albany,42.486537,-73.920588
+18187,NY,New York,Cohocton,Steuben,42.500315,-77.499763
+18188,NY,New York,Cohoes,Albany,42.775362,-73.712356
+18189,NY,New York,Cold Brook,Herkimer,43.302391,-74.997651
+18190,NY,New York,Cold Spring,Putnam,41.44142,-73.933485
+18191,NY,New York,Cold Spring Harbor,Suffolk,40.863056,-73.450032
+18192,NY,New York,Colden,Erie,42.655052,-78.692078
+18193,NY,New York,College Point,Queens,40.785511,-73.844955
+18194,NY,New York,Colliersville,Otsego,42.490833,-74.9825
+18195,NY,New York,Collins,Erie,42.500082,-78.892974
+18196,NY,New York,Collins Center,Erie,42.493611,-78.851667
+18197,NY,New York,Colton,Saint Lawrence,44.50156,-74.932672
+18198,NY,New York,Columbiaville,Columbia,42.318333,-73.753611
+18199,NY,New York,Commack,Suffolk,40.843032,-73.279924
+18200,NY,New York,Comstock,Washington,43.456706,-73.360607
+18201,NY,New York,Conesus,Livingston,42.721643,-77.67469
+18202,NY,New York,Conewango Valley,Cattaraugus,42.262467,-79.021956
+18203,NY,New York,Congers,Rockland,41.148689,-73.94131
+18204,NY,New York,Conklin,Broome,42.045429,-75.807624
+18205,NY,New York,Connelly,Ulster,41.91,-73.991667
+18206,NY,New York,Constable,Franklin,44.941688,-74.329713
+18207,NY,New York,Constableville,Lewis,43.562982,-75.458406
+18208,NY,New York,Constantia,Oswego,43.272751,-76.004155
+18209,NY,New York,Coopers Plains,Steuben,42.182222,-77.141944
+18210,NY,New York,Cooperstown,Otsego,42.70319,-74.918148
+18211,NY,New York,Copake,Columbia,42.111329,-73.552588
+18212,NY,New York,Copake Falls,Columbia,42.136737,-73.510773
+18213,NY,New York,Copenhagen,Lewis,43.880136,-75.683913
+18214,NY,New York,Copiague,Suffolk,40.677833,-73.396271
+18215,NY,New York,Coram,Suffolk,40.884988,-73.006881
+18216,NY,New York,Corbettsville,Broome,42.015556,-75.790833
+18217,NY,New York,Corfu,Genesee,42.977734,-78.392906
+18218,NY,New York,Corinth,Saratoga,43.242569,-73.836901
+18219,NY,New York,Corning,Steuben,42.138331,-77.047546
+18220,NY,New York,Cornwall,Orange,41.430944,-74.053877
+18221,NY,New York,Cornwall On Hudson,Orange,41.443031,-74.016411
+18222,NY,New York,Cornwallville,Greene,42.362874,-74.163092
+18223,NY,New York,Corona,Queens,40.745288,-73.861069
+18224,NY,New York,Cortland,Cortland,42.595175,-76.185675
+18225,NY,New York,Cortlandt Manor,Westchester,41.289722,-73.850556
+18226,NY,New York,Cossayuna,Washington,43.175059,-73.41237
+18227,NY,New York,Cottekill,Ulster,41.846706,-74.103774
+18228,NY,New York,Cowlesville,Wyoming,42.811245,-78.448136
+18229,NY,New York,Coxsackie,Greene,42.350142,-73.819881
+18230,NY,New York,Cragsmoor,Ulster,41.673333,-74.385833
+18231,NY,New York,Cranberry Lake,Saint Lawrence,44.2225,-74.836667
+18232,NY,New York,Craryville,Columbia,42.175961,-73.657128
+18233,NY,New York,Crittenden,Erie,42.946111,-78.485
+18234,NY,New York,Croghan,Lewis,43.909461,-75.354192
+18235,NY,New York,Crompond,Westchester,41.295,-73.865833
+18236,NY,New York,Cropseyville,Rensselaer,42.766718,-73.471869
+18237,NY,New York,Cross River,Westchester,41.27218,-73.602027
+18238,NY,New York,Croton Falls,Westchester,41.347222,-73.661389
+18239,NY,New York,Croton On Hudson,Westchester,41.218037,-73.892408
+18240,NY,New York,Crown Point,Essex,43.952633,-73.466486
+18241,NY,New York,Cuba,Allegany,42.18819,-78.275074
+18242,NY,New York,Cuddebackville,Orange,41.477601,-74.597564
+18243,NY,New York,Cutchogue,Suffolk,41.013918,-72.480255
+18244,NY,New York,Dale,Wyoming,42.826284,-78.174865
+18245,NY,New York,Dalton,Livingston,42.544895,-77.928889
+18246,NY,New York,Dannemora,Clinton,44.721389,-73.724167
+18247,NY,New York,Dansville,Livingston,42.569975,-77.710907
+18248,NY,New York,Darien Center,Genesee,42.894806,-78.387782
+18249,NY,New York,Davenport,Delaware,42.471081,-74.835709
+18250,NY,New York,Davenport Center,Delaware,42.452303,-74.906975
+18251,NY,New York,Dayton,Cattaraugus,42.423075,-78.981842
+18252,NY,New York,De Kalb Junction,Saint Lawrence,44.489551,-75.287088
+18253,NY,New York,De Peyster,Saint Lawrence,44.541341,-75.432814
+18254,NY,New York,De Ruyter,Madison,42.749444,-75.858226
+18255,NY,New York,Deansboro,Oneida,42.981788,-75.438309
+18256,NY,New York,Deer Park,Suffolk,40.759083,-73.32572
+18257,NY,New York,Deer River,Lewis,43.929722,-75.589444
+18258,NY,New York,Deferiet,Jefferson,44.035556,-75.684167
+18259,NY,New York,Delancey,Delaware,42.188984,-74.922899
+18260,NY,New York,Delanson,Schenectady,42.74802,-74.18681
+18261,NY,New York,Delevan,Cattaraugus,42.492598,-78.479326
+18262,NY,New York,Delhi,Delaware,42.287851,-74.922823
+18263,NY,New York,Delmar,Albany,42.61579,-73.837329
+18264,NY,New York,Delphi Falls,Onondaga,42.876389,-75.913889
+18265,NY,New York,Denmark,Lewis,43.899722,-75.582778
+18266,NY,New York,Denver,Delaware,42.252204,-74.540654
+18267,NY,New York,Depauville,Jefferson,44.138333,-76.065833
+18268,NY,New York,Depew,Erie,42.904973,-78.704052
+18269,NY,New York,Deposit,Broome,42.066581,-75.428745
+18270,NY,New York,Derby,Erie,42.697445,-78.983365
+18271,NY,New York,Dewittville,Chautauqua,42.239413,-79.419303
+18272,NY,New York,Dexter,Jefferson,44.006923,-76.06499
+18273,NY,New York,Diamond Point,Warren,43.515553,-73.700123
+18274,NY,New York,Dickinson Center,Franklin,44.723328,-74.552346
+18275,NY,New York,Dobbs Ferry,Westchester,41.011835,-73.866494
+18276,NY,New York,Dolgeville,Herkimer,43.104161,-74.764305
+18277,NY,New York,Dormansville,Albany,42.437859,-74.198966
+18278,NY,New York,Dover Plains,Dutchess,41.735054,-73.587024
+18279,NY,New York,Downsville,Delaware,42.071634,-75.015216
+18280,NY,New York,Dresden,Yates,42.684565,-76.956389
+18281,NY,New York,Dryden,Tompkins,42.486118,-76.287224
+18282,NY,New York,Duanesburg,Schenectady,42.770839,-74.083911
+18283,NY,New York,Dundee,Yates,42.505261,-77.002773
+18284,NY,New York,Dunkirk,Chautauqua,42.475907,-79.329366
+18285,NY,New York,Durham,Greene,42.402037,-74.184926
+18286,NY,New York,Durhamville,Oneida,43.157912,-75.671409
+18287,NY,New York,Eagle Bay,Herkimer,43.723659,-74.965381
+18288,NY,New York,Eagle Bridge,Rensselaer,42.961527,-73.351974
+18289,NY,New York,Earlton,Greene,42.352689,-73.906222
+18290,NY,New York,Earlville,Chenango,42.752218,-75.541653
+18291,NY,New York,East Amherst,Erie,43.029168,-78.705035
+18292,NY,New York,East Aurora,Erie,42.770138,-78.601992
+18293,NY,New York,East Berne,Albany,42.61913,-74.055488
+18294,NY,New York,East Bethany,Genesee,42.916619,-78.134206
+18295,NY,New York,East Bloomfield,Ontario,42.895,-77.435
+18296,NY,New York,East Branch,Delaware,41.984366,-75.125189
+18297,NY,New York,East Chatham,Columbia,42.433028,-73.49026
+18298,NY,New York,East Concord,Erie,42.546585,-78.610972
+18299,NY,New York,East Durham,Greene,42.385978,-74.11169
+18300,NY,New York,East Elmhurst,Queens,40.761254,-73.873902
+18301,NY,New York,East Greenbush,Rensselaer,42.595096,-73.682644
+18302,NY,New York,East Hampton,Suffolk,40.992964,-72.178958
+18303,NY,New York,East Homer,Cortland,42.666111,-76.101944
+18304,NY,New York,East Islip,Suffolk,40.72816,-73.180471
+18305,NY,New York,East Jewett,Greene,42.280567,-74.207981
+18306,NY,New York,East Marion,Suffolk,41.126425,-72.34186
+18307,NY,New York,East Meadow,Nassau,40.714915,-73.556088
+18308,NY,New York,East Meredith,Delaware,42.410098,-74.898699
+18309,NY,New York,East Moriches,Suffolk,40.808975,-72.753778
+18310,NY,New York,East Nassau,Rensselaer,42.535215,-73.498407
+18311,NY,New York,East Northport,Suffolk,40.867066,-73.319506
+18312,NY,New York,East Norwich,Nassau,40.847162,-73.534876
+18313,NY,New York,East Otto,Cattaraugus,42.3971,-78.743167
+18314,NY,New York,East Pembroke,Genesee,42.995556,-78.310278
+18315,NY,New York,East Pharsalia,Chenango,42.558056,-75.7175
+18316,NY,New York,East Quogue,Suffolk,40.84277,-72.581297
+18317,NY,New York,East Randolph,Cattaraugus,42.172778,-78.948056
+18318,NY,New York,East Rochester,Monroe,43.112808,-77.490596
+18319,NY,New York,East Rockaway,Nassau,40.640445,-73.667376
+18320,NY,New York,East Schodack,Rensselaer,42.561944,-73.633889
+18321,NY,New York,East Setauket,Suffolk,40.930004,-73.101467
+18322,NY,New York,East Springfield,Otsego,42.832947,-74.759741
+18323,NY,New York,East Syracuse,Onondaga,43.073359,-76.05578
+18324,NY,New York,East Williamson,Wayne,43.230556,-77.145556
+18325,NY,New York,East Worcester,Otsego,42.621423,-74.676348
+18326,NY,New York,Eastchester,Westchester,40.954966,-73.80858
+18327,NY,New York,Eastport,Suffolk,40.809947,-72.705388
+18328,NY,New York,Eaton,Madison,42.848417,-75.631359
+18329,NY,New York,Eden,Erie,42.650552,-78.878077
+18330,NY,New York,Edmeston,Otsego,42.730281,-75.252522
+18331,NY,New York,Edwards,Saint Lawrence,44.311048,-75.252226
+18332,NY,New York,Elba,Genesee,43.089739,-78.170383
+18333,NY,New York,Elbridge,Onondaga,43.025246,-76.435164
+18334,NY,New York,Eldred,Sullivan,41.532793,-74.896769
+18335,NY,New York,Elizabethtown,Essex,44.224518,-73.601131
+18336,NY,New York,Elizaville,Columbia,42.090173,-73.781814
+18337,NY,New York,Elka Park,Greene,42.164309,-74.124539
+18338,NY,New York,Ellenburg,Clinton,44.893889,-73.836944
+18339,NY,New York,Ellenburg Center,Clinton,44.844353,-73.868546
+18340,NY,New York,Ellenburg Depot,Clinton,44.916266,-73.787572
+18341,NY,New York,Ellenville,Ulster,41.721805,-74.414125
+18342,NY,New York,Ellicottville,Cattaraugus,42.295873,-78.66064
+18343,NY,New York,Ellington,Chautauqua,42.216667,-79.108056
+18344,NY,New York,Ellisburg,Jefferson,43.737202,-76.125871
+18345,NY,New York,Elma,Erie,42.834002,-78.634257
+18346,NY,New York,Elmhurst,Queens,40.740388,-73.878551
+18347,NY,New York,Elmira,Chemung,42.100769,-76.811977
+18348,NY,New York,Elmont,Nassau,40.699615,-73.705751
+18349,NY,New York,Elmsford,Westchester,41.057171,-73.813597
+18350,NY,New York,Endicott,Broome,42.114089,-76.056927
+18351,NY,New York,Endwell,Broome,42.112778,-76.021389
+18352,NY,New York,Erieville,Madison,42.856166,-75.754255
+18353,NY,New York,Erin,Chemung,42.185898,-76.681942
+18354,NY,New York,Esopus,Ulster,41.827778,-73.965556
+18355,NY,New York,Esperance,Montgomery,42.771677,-74.288246
+18356,NY,New York,Essex,Essex,44.280695,-73.373147
+18357,NY,New York,Etna,Tompkins,42.485,-76.383889
+18358,NY,New York,Evans Mills,Jefferson,44.081668,-75.830516
+18359,NY,New York,Fabius,Onondaga,42.853117,-75.983645
+18360,NY,New York,Fair Haven,Cayuga,43.316389,-76.7025
+18361,NY,New York,Fairport,Monroe,43.089198,-77.435956
+18362,NY,New York,Falconer,Chautauqua,42.123915,-79.189499
+18363,NY,New York,Fallsburg,Sullivan,41.7273,-74.615409
+18364,NY,New York,Fancher,Orleans,43.244722,-78.091389
+18365,NY,New York,Far Rockaway,Queens,40.599444,-73.764167
+18366,NY,New York,Farmersville Station,Cattaraugus,42.44827,-78.291533
+18367,NY,New York,Farmingdale,Nassau,40.725061,-73.445055
+18368,NY,New York,Farmington,Ontario,42.959591,-77.341139
+18369,NY,New York,Farmingville,Suffolk,40.836602,-73.04125
+18370,NY,New York,Farnham,Erie,42.594444,-79.091389
+18371,NY,New York,Fayette,Seneca,42.814167,-76.809444
+18372,NY,New York,Fayetteville,Onondaga,43.026774,-76.014503
+18373,NY,New York,Felts Mills,Jefferson,44.020374,-75.752443
+18374,NY,New York,Ferndale,Sullivan,41.730029,-74.754873
+18375,NY,New York,Feura Bush,Albany,42.554998,-73.923743
+18376,NY,New York,Fillmore,Allegany,42.463605,-78.106232
+18377,NY,New York,Findley Lake,Chautauqua,42.120401,-79.734908
+18378,NY,New York,Fine,Saint Lawrence,44.247778,-75.138056
+18379,NY,New York,Fishers,Ontario,43.008611,-77.465
+18380,NY,New York,Fishers Island,Suffolk,41.263934,-72.017834
+18381,NY,New York,Fishers Landing,Jefferson,44.276389,-76.008333
+18382,NY,New York,Fishkill,Dutchess,41.540352,-73.89791
+18383,NY,New York,Fishs Eddy,Delaware,41.963611,-75.175278
+18384,NY,New York,Fleischmanns,Delaware,42.178765,-74.531908
+18385,NY,New York,Floral Park,Nassau,40.723586,-73.70576
+18386,NY,New York,Floral Park,Queens,40.7569,-73.712
+18387,NY,New York,Florida,Orange,41.329507,-74.352805
+18388,NY,New York,Flushing,Queens,40.7816,-73.8272
+18389,NY,New York,Fly Creek,Otsego,42.725177,-74.986921
+18390,NY,New York,Fonda,Montgomery,42.957078,-74.402129
+18391,NY,New York,Forest Hills,Queens,40.722854,-73.847306
+18392,NY,New York,Forestburgh,Sullivan,41.569093,-74.724087
+18393,NY,New York,Forestport,Oneida,43.473651,-75.178742
+18394,NY,New York,Forestville,Chautauqua,42.448229,-79.160743
+18395,NY,New York,Fort Ann,Washington,43.428457,-73.478381
+18396,NY,New York,Fort Covington,Franklin,44.973096,-74.492879
+18397,NY,New York,Fort Drum,Jefferson,44.035434,-75.753972
+18398,NY,New York,Fort Edward,Washington,43.265321,-73.582169
+18399,NY,New York,Fort Hunter,Montgomery,42.942222,-74.285556
+18400,NY,New York,Fort Johnson,Montgomery,42.976535,-74.248436
+18401,NY,New York,Fort Montgomery,Orange,41.323889,-73.987222
+18402,NY,New York,Fort Plain,Montgomery,42.937158,-74.643298
+18403,NY,New York,Frankfort,Herkimer,43.044041,-75.107155
+18404,NY,New York,Franklin,Delaware,42.342117,-75.148475
+18405,NY,New York,Franklin Springs,Oneida,43.036667,-75.3925
+18406,NY,New York,Franklin Square,Nassau,40.701049,-73.675807
+18407,NY,New York,Franklinville,Cattaraugus,42.338823,-78.440043
+18408,NY,New York,Fredonia,Chautauqua,42.433345,-79.333914
+18409,NY,New York,Freedom,Cattaraugus,42.489693,-78.35013
+18410,NY,New York,Freehold,Greene,42.3815,-74.062266
+18411,NY,New York,Freeport,Nassau,40.65359,-73.586615
+18412,NY,New York,Freeville,Tompkins,42.499768,-76.363622
+18413,NY,New York,Fremont Center,Sullivan,41.847134,-75.029635
+18414,NY,New York,Fresh Meadows,Queens,40.737424,-73.79506
+18415,NY,New York,Frewsburg,Chautauqua,42.052753,-79.131797
+18416,NY,New York,Friendship,Allegany,42.190666,-78.13588
+18417,NY,New York,Fulton,Oswego,43.321108,-76.40342
+18418,NY,New York,Fultonham,Schoharie,42.585914,-74.38759
+18419,NY,New York,Fultonville,Montgomery,42.903601,-74.359765
+18420,NY,New York,Gabriels,Franklin,44.431944,-74.181389
+18421,NY,New York,Gainesville,Wyoming,42.61897,-78.179516
+18422,NY,New York,Gallupville,Schoharie,42.6625,-74.233056
+18423,NY,New York,Galway,Saratoga,43.021693,-74.029043
+18424,NY,New York,Gansevoort,Saratoga,43.180343,-73.705267
+18425,NY,New York,Garden City,Nassau,40.72452,-73.648718
+18426,NY,New York,Gardiner,Ulster,41.657615,-74.167155
+18427,NY,New York,Garnerville,Rockland,41.202057,-74.000501
+18428,NY,New York,Garrattsville,Otsego,42.635634,-75.232701
+18429,NY,New York,Garrison,Putnam,41.362065,-73.920003
+18430,NY,New York,Gasport,Niagara,43.210587,-78.574536
+18431,NY,New York,Geneseo,Livingston,42.793783,-77.799552
+18432,NY,New York,Geneva,Ontario,42.86372,-76.991349
+18433,NY,New York,Genoa,Cayuga,42.674624,-76.541755
+18434,NY,New York,Georgetown,Madison,42.763059,-75.744279
+18435,NY,New York,Germantown,Columbia,42.1219,-73.862451
+18436,NY,New York,Gerry,Chautauqua,42.214728,-79.164865
+18437,NY,New York,Getzville,Erie,43.023989,-78.753184
+18438,NY,New York,Ghent,Columbia,42.303637,-73.64864
+18439,NY,New York,Gilbertsville,Otsego,42.432951,-75.360929
+18440,NY,New York,Gilboa,Schoharie,42.410835,-74.400275
+18441,NY,New York,Glasco,Ulster,42.043611,-73.947778
+18442,NY,New York,Glen Aubrey,Broome,42.257289,-75.980544
+18443,NY,New York,Glen Cove,Nassau,40.864958,-73.62772
+18444,NY,New York,Glen Head,Nassau,40.828098,-73.60763
+18445,NY,New York,Glen Oaks,Queens,40.7481,-73.711436
+18446,NY,New York,Glen Spey,Sullivan,41.48576,-74.799493
+18447,NY,New York,Glen Wild,Sullivan,41.654536,-74.583289
+18448,NY,New York,Glenfield,Lewis,43.732306,-75.366902
+18449,NY,New York,Glenford,Ulster,42.005342,-74.153154
+18450,NY,New York,Glenham,Dutchess,41.521667,-73.926944
+18451,NY,New York,Glenmont,Albany,42.597147,-73.795884
+18452,NY,New York,Glens Falls,Warren,43.312539,-73.648816
+18453,NY,New York,Glenwood,Erie,42.600094,-78.638634
+18454,NY,New York,Glenwood Landing,Nassau,40.830556,-73.639167
+18455,NY,New York,Gloversville,Fulton,43.061603,-74.337526
+18456,NY,New York,Goldens Bridge,Westchester,41.293333,-73.677222
+18457,NY,New York,Gorham,Ontario,42.798889,-77.131944
+18458,NY,New York,Goshen,Orange,41.394586,-74.330162
+18459,NY,New York,Gouverneur,Saint Lawrence,44.328302,-75.465061
+18460,NY,New York,Gowanda,Cattaraugus,42.471202,-78.933902
+18461,NY,New York,Grafton,Rensselaer,42.768889,-73.451389
+18462,NY,New York,Grahamsville,Sullivan,41.880659,-74.512697
+18463,NY,New York,Grand Gorge,Delaware,42.387358,-74.531173
+18464,NY,New York,Grand Island,Erie,43.018266,-78.959059
+18465,NY,New York,Granite Springs,Westchester,41.309791,-73.753008
+18466,NY,New York,Granville,Washington,43.377562,-73.297825
+18467,NY,New York,Great Bend,Jefferson,44.034167,-75.719167
+18468,NY,New York,Great Neck,Nassau,40.774235,-73.718918
+18469,NY,New York,Great River,Suffolk,40.721111,-73.158056
+18470,NY,New York,Great Valley,Cattaraugus,42.208292,-78.620811
+18471,NY,New York,Greene,Chenango,42.337301,-75.75954
+18472,NY,New York,Greenfield Center,Saratoga,43.122488,-73.860193
+18473,NY,New York,Greenfield Park,Ulster,41.728133,-74.520074
+18474,NY,New York,Greenhurst,Chautauqua,42.119444,-79.310556
+18475,NY,New York,Greenlawn,Suffolk,40.862121,-73.364641
+18476,NY,New York,Greenport,Suffolk,41.103905,-72.367415
+18477,NY,New York,Greenvale,Nassau,40.812503,-73.626124
+18478,NY,New York,Greenville,Greene,42.411342,-74.022222
+18479,NY,New York,Greenwich,Washington,43.096183,-73.506658
+18480,NY,New York,Greenwood,Steuben,42.139809,-77.636041
+18481,NY,New York,Greenwood Lake,Orange,41.212718,-74.300007
+18482,NY,New York,Greig,Lewis,43.689184,-75.312393
+18483,NY,New York,Groton,Tompkins,42.58549,-76.363286
+18484,NY,New York,Groveland,Livingston,42.676046,-77.757334
+18485,NY,New York,Guilderland,Albany,42.697273,-73.897454
+18486,NY,New York,Guilderland Center,Albany,42.703056,-73.966389
+18487,NY,New York,Guilford,Chenango,42.426901,-75.482318
+18488,NY,New York,Hadley,Saratoga,43.301268,-73.949905
+18489,NY,New York,Hagaman,Montgomery,42.959715,-74.166764
+18490,NY,New York,Hague,Warren,43.74631,-73.528172
+18491,NY,New York,Hailesboro,Saint Lawrence,44.31,-75.446667
+18492,NY,New York,Haines Falls,Greene,42.195833,-74.0975
+18493,NY,New York,Halcottsville,Delaware,42.208333,-74.601389
+18494,NY,New York,Hall,Ontario,42.793889,-77.066667
+18495,NY,New York,Hamburg,Erie,42.733404,-78.838853
+18496,NY,New York,Hamden,Delaware,42.17873,-74.998391
+18497,NY,New York,Hamilton,Madison,42.82306,-75.543382
+18498,NY,New York,Hamlin,Monroe,43.307577,-77.926996
+18499,NY,New York,Hammond,Saint Lawrence,44.450155,-75.672749
+18500,NY,New York,Hammondsport,Steuben,42.431217,-77.197702
+18501,NY,New York,Hampton,Washington,43.462135,-73.273072
+18502,NY,New York,Hampton Bays,Suffolk,40.872596,-72.520209
+18503,NY,New York,Hancock,Delaware,41.959667,-75.265306
+18504,NY,New York,Hankins,Sullivan,41.831288,-75.099809
+18505,NY,New York,Hannacroix,Greene,42.428533,-73.868029
+18506,NY,New York,Hannawa Falls,Saint Lawrence,44.612222,-74.971389
+18507,NY,New York,Hannibal,Oswego,43.311115,-76.546034
+18508,NY,New York,Harford,Cortland,42.426111,-76.226944
+18509,NY,New York,Harpersfield,Delaware,42.449901,-74.687059
+18510,NY,New York,Harpursville,Broome,42.18232,-75.654538
+18511,NY,New York,Harriman,Orange,41.299681,-74.155805
+18512,NY,New York,Harris,Sullivan,41.714055,-74.7218
+18513,NY,New York,Harrison,Westchester,40.971876,-73.718068
+18514,NY,New York,Harrisville,Lewis,44.161294,-75.325151
+18515,NY,New York,Hartford,Washington,43.349281,-73.404946
+18516,NY,New York,Hartsdale,Westchester,41.019658,-73.807404
+18517,NY,New York,Hartwick,Otsego,42.695033,-75.055009
+18518,NY,New York,Hastings,Oswego,43.35268,-76.147708
+18519,NY,New York,Hastings On Hudson,Westchester,40.99071,-73.875912
+18520,NY,New York,Hauppauge,Suffolk,40.823069,-73.195762
+18521,NY,New York,Haverstraw,Rockland,41.197095,-73.968959
+18522,NY,New York,Hawthorne,Westchester,41.095316,-73.801685
+18523,NY,New York,Hector,Schuyler,42.49658,-76.878597
+18524,NY,New York,Helena,Saint Lawrence,44.921667,-74.726667
+18525,NY,New York,Hemlock,Livingston,42.779957,-77.58199
+18526,NY,New York,Hempstead,Nassau,40.713889,-73.600278
+18527,NY,New York,Henderson,Jefferson,43.846742,-76.235212
+18528,NY,New York,Henderson Harbor,Jefferson,43.864722,-76.202222
+18529,NY,New York,Henrietta,Monroe,43.048264,-77.612224
+18530,NY,New York,Hensonville,Greene,42.259032,-74.213063
+18531,NY,New York,Herkimer,Herkimer,43.030696,-74.98757
+18532,NY,New York,Hermon,Saint Lawrence,44.444845,-75.198664
+18533,NY,New York,Heuvelton,Saint Lawrence,44.593034,-75.420345
+18534,NY,New York,Hewlett,Nassau,40.640392,-73.695667
+18535,NY,New York,Hicksville,Nassau,40.762305,-73.52297
+18536,NY,New York,High Falls,Ulster,41.816749,-74.131122
+18537,NY,New York,Highland,Ulster,41.716691,-73.992825
+18538,NY,New York,Highland Falls,Orange,41.358177,-73.974618
+18539,NY,New York,Highland Lake,Sullivan,41.530925,-74.851615
+18540,NY,New York,Highland Mills,Orange,41.353592,-74.119678
+18541,NY,New York,Highmount,Ulster,42.144167,-74.490278
+18542,NY,New York,Hillburn,Rockland,41.123981,-74.170195
+18543,NY,New York,Hillsdale,Columbia,42.186816,-73.548306
+18544,NY,New York,Hilton,Monroe,43.292344,-77.790511
+18545,NY,New York,Himrod,Yates,42.594455,-76.950774
+18546,NY,New York,Hinckley,Oneida,43.312222,-75.122222
+18547,NY,New York,Hinsdale,Cattaraugus,42.179747,-78.400611
+18548,NY,New York,Hobart,Delaware,42.359409,-74.675889
+18549,NY,New York,Hoffmeister,Hamilton,43.391545,-74.739974
+18550,NY,New York,Hogansburg,Franklin,44.982511,-74.662649
+18551,NY,New York,Holbrook,Suffolk,40.796426,-73.071789
+18552,NY,New York,Holland,Erie,42.639582,-78.543889
+18553,NY,New York,Holland Patent,Oneida,43.248406,-75.253506
+18554,NY,New York,Holley,Orleans,43.225494,-78.040392
+18555,NY,New York,Hollis,Queens,40.714156,-73.767685
+18556,NY,New York,Hollowville,Columbia,42.205278,-73.691667
+18557,NY,New York,Holmes,Dutchess,41.532461,-73.662751
+18558,NY,New York,Holtsville,Suffolk,40.8152,-73.0455
+18559,NY,New York,Homer,Cortland,42.672586,-76.18783
+18560,NY,New York,Honeoye,Ontario,42.768637,-77.505434
+18561,NY,New York,Honeoye Falls,Monroe,42.969499,-77.57812
+18562,NY,New York,Hoosick,Rensselaer,42.8625,-73.328611
+18563,NY,New York,Hoosick Falls,Rensselaer,42.893712,-73.358105
+18564,NY,New York,Hopewell Junction,Dutchess,41.576639,-73.797581
+18565,NY,New York,Hornell,Steuben,42.327393,-77.656907
+18566,NY,New York,Horseheads,Chemung,42.180493,-76.834539
+18567,NY,New York,Hortonville,Sullivan,41.78568,-75.026329
+18568,NY,New York,Houghton,Allegany,42.411567,-78.109506
+18569,NY,New York,Howard Beach,Queens,40.660603,-73.845041
+18570,NY,New York,Howells,Orange,41.479444,-74.465556
+18571,NY,New York,Howes Cave,Schoharie,42.704526,-74.364825
+18572,NY,New York,Hubbardsville,Madison,42.823663,-75.436707
+18573,NY,New York,Hudson,Columbia,42.246978,-73.755248
+18574,NY,New York,Hudson Falls,Washington,43.314863,-73.574607
+18575,NY,New York,Hughsonville,Dutchess,41.580833,-73.9275
+18576,NY,New York,Huguenot,Orange,41.437162,-74.64261
+18577,NY,New York,Huletts Landing,Washington,43.639167,-73.5075
+18578,NY,New York,Hume,Allegany,42.472778,-78.136667
+18579,NY,New York,Hunt,Livingston,42.538821,-77.981839
+18580,NY,New York,Hunter,Greene,42.237316,-74.203753
+18581,NY,New York,Huntington,Suffolk,40.866945,-73.410924
+18582,NY,New York,Huntington Station,Suffolk,40.821754,-73.375472
+18583,NY,New York,Hurley,Ulster,41.932743,-74.06873
+18584,NY,New York,Hurleyville,Sullivan,41.760882,-74.65344
+18585,NY,New York,Hyde Park,Dutchess,41.788724,-73.906347
+18586,NY,New York,Ilion,Herkimer,43.006391,-75.04836
+18587,NY,New York,Indian Lake,Hamilton,43.760594,-74.276638
+18588,NY,New York,Inlet,Hamilton,43.748024,-74.784631
+18589,NY,New York,Interlaken,Seneca,42.616524,-76.726798
+18590,NY,New York,Inwood,Nassau,40.621944,-73.747222
+18591,NY,New York,Ionia,Ontario,42.938002,-77.50086
+18592,NY,New York,Irving,Chautauqua,42.573866,-79.059634
+18593,NY,New York,Irvington,Westchester,41.038113,-73.859666
+18594,NY,New York,Island Park,Nassau,40.604044,-73.655411
+18595,NY,New York,Islandia,Suffolk,40.790556,-73.202222
+18596,NY,New York,Islip,Suffolk,40.734821,-73.22211
+18597,NY,New York,Islip Terrace,Suffolk,40.75482,-73.182746
+18598,NY,New York,Ithaca,Tompkins,42.448497,-76.492911
+18599,NY,New York,Jackson Heights,Queens,40.751329,-73.882975
+18600,NY,New York,Jacksonville,Tompkins,42.508333,-76.615278
+18601,NY,New York,Jamaica,Queens,40.6913,-73.8061
+18602,NY,New York,Jamesport,Suffolk,40.949444,-72.581944
+18603,NY,New York,Jamestown,Chautauqua,42.092845,-79.243989
+18604,NY,New York,Jamesville,Onondaga,42.982973,-76.076571
+18605,NY,New York,Jasper,Steuben,42.128962,-77.499909
+18606,NY,New York,Java Center,Wyoming,42.66342,-78.392527
+18607,NY,New York,Java Village,Wyoming,42.676852,-78.44101
+18608,NY,New York,Jay,Essex,44.373351,-73.724702
+18609,NY,New York,Jefferson,Schoharie,42.499869,-74.611744
+18610,NY,New York,Jefferson Valley,Westchester,41.338522,-73.794697
+18611,NY,New York,Jeffersonville,Sullivan,41.778394,-74.919574
+18612,NY,New York,Jericho,Nassau,40.788118,-73.533067
+18613,NY,New York,Jewett,Greene,42.269383,-74.279274
+18614,NY,New York,Johnsburg,Warren,43.634081,-74.021254
+18615,NY,New York,Johnson,Orange,41.366111,-74.506944
+18616,NY,New York,Johnson City,Broome,42.126683,-75.968492
+18617,NY,New York,Johnsonville,Rensselaer,42.876875,-73.498899
+18618,NY,New York,Johnstown,Fulton,43.006923,-74.37149
+18619,NY,New York,Jordan,Onondaga,43.065141,-76.45978
+18620,NY,New York,Jordanville,Herkimer,42.89478,-74.820919
+18621,NY,New York,Kanona,Steuben,42.372222,-77.366111
+18622,NY,New York,Katonah,Westchester,41.270884,-73.684115
+18623,NY,New York,Kattskill Bay,Warren,43.515561,-73.629883
+18624,NY,New York,Kauneonga Lake,Sullivan,41.690833,-74.829167
+18625,NY,New York,Keene,Essex,44.25548,-73.791457
+18626,NY,New York,Keene Valley,Essex,44.177978,-73.795923
+18627,NY,New York,Keeseville,Clinton,44.521594,-73.508976
+18628,NY,New York,Kendall,Orleans,43.328415,-78.030359
+18629,NY,New York,Kennedy,Chautauqua,42.150776,-79.096416
+18630,NY,New York,Kenoza Lake,Sullivan,41.777802,-74.935384
+18631,NY,New York,Kent,Orleans,43.334064,-78.135533
+18632,NY,New York,Kerhonkson,Ulster,41.793866,-74.303457
+18633,NY,New York,Keuka Park,Yates,42.601032,-77.105197
+18634,NY,New York,Kew Gardens,Queens,40.706865,-73.829715
+18635,NY,New York,Kiamesha Lake,Sullivan,41.683825,-74.672402
+18636,NY,New York,Kill Buck,Cattaraugus,42.141005,-78.642604
+18637,NY,New York,Killawog,Broome,42.400556,-76.021111
+18638,NY,New York,Kinderhook,Columbia,42.376675,-73.718259
+18639,NY,New York,King Ferry,Cayuga,42.66351,-76.621603
+18640,NY,New York,Kings Park,Suffolk,40.886121,-73.243763
+18641,NY,New York,Kingston,Ulster,41.930126,-74.023575
+18642,NY,New York,Kirkville,Onondaga,43.098095,-75.955003
+18643,NY,New York,Kirkwood,Broome,42.069463,-75.796711
+18644,NY,New York,Knowlesville,Orleans,43.241944,-78.310833
+18645,NY,New York,Knox,Albany,42.671111,-74.116111
+18646,NY,New York,Knoxboro,Oneida,42.986389,-75.5175
+18647,NY,New York,La Fargeville,Jefferson,44.198709,-75.956902
+18648,NY,New York,La Fayette,Onondaga,42.890959,-76.106116
+18649,NY,New York,Lacona,Oswego,43.642883,-76.050335
+18650,NY,New York,Lagrangeville,Dutchess,41.661471,-73.744955
+18651,NY,New York,Lake Clear,Franklin,44.359392,-74.243336
+18652,NY,New York,Lake George,Warren,43.416725,-73.697547
+18653,NY,New York,Lake Grove,Suffolk,40.856681,-73.116751
+18654,NY,New York,Lake Hill,Ulster,42.073271,-74.212338
+18655,NY,New York,Lake Huntington,Sullivan,41.678158,-74.994933
+18656,NY,New York,Lake Katrine,Ulster,41.991787,-73.992379
+18657,NY,New York,Lake Luzerne,Warren,43.316487,-73.822821
+18658,NY,New York,Lake Peekskill,Putnam,41.337437,-73.883787
+18659,NY,New York,Lake Placid,Essex,44.274986,-73.986354
+18660,NY,New York,Lake Pleasant,Hamilton,43.472543,-74.422563
+18661,NY,New York,Lake View,Erie,42.721535,-78.932693
+18662,NY,New York,Lakemont,Yates,42.516111,-76.928333
+18663,NY,New York,Lakeville,Livingston,42.82957,-77.714865
+18664,NY,New York,Lakewood,Chautauqua,42.097256,-79.329124
+18665,NY,New York,Lancaster,Erie,42.901681,-78.663085
+18666,NY,New York,Lanesville,Greene,42.189149,-74.19715
+18667,NY,New York,Lansing,Tompkins,42.564494,-76.537455
+18668,NY,New York,Larchmont,Westchester,40.935055,-73.75715
+18669,NY,New York,Latham,Albany,42.74616,-73.762985
+18670,NY,New York,Laurel,Suffolk,40.9674,-72.55404
+18671,NY,New York,Laurens,Otsego,42.538261,-75.127947
+18672,NY,New York,Lawrence,Nassau,40.61396,-73.732969
+18673,NY,New York,Lawrenceville,Saint Lawrence,44.758988,-74.662927
+18674,NY,New York,Lawtons,Erie,42.540364,-78.921222
+18675,NY,New York,Le Roy,Genesee,42.977377,-77.985097
+18676,NY,New York,Lee Center,Oneida,43.314804,-75.505532
+18677,NY,New York,Leeds,Greene,42.304506,-73.945726
+18678,NY,New York,Leicester,Livingston,42.773903,-77.898976
+18679,NY,New York,Leon,Cattaraugus,42.293056,-79.016667
+18680,NY,New York,Leonardsville,Madison,42.808611,-75.253056
+18681,NY,New York,Levittown,Nassau,40.725428,-73.516578
+18682,NY,New York,Lewis,Essex,44.307507,-73.549129
+18683,NY,New York,Lewiston,Niagara,43.172165,-79.021547
+18684,NY,New York,Lexington,Greene,42.240278,-74.365833
+18685,NY,New York,Liberty,Sullivan,41.79618,-74.748397
+18686,NY,New York,Lily Dale,Chautauqua,42.351667,-79.324444
+18687,NY,New York,Lima,Livingston,42.901234,-77.608305
+18688,NY,New York,Limerick,Jefferson,44.029167,-76.043333
+18689,NY,New York,Limestone,Cattaraugus,42.063945,-78.631979
+18690,NY,New York,Lincolndale,Westchester,41.322778,-73.718611
+18691,NY,New York,Lindenhurst,Suffolk,40.688373,-73.374493
+18692,NY,New York,Lindley,Steuben,42.042483,-77.154132
+18693,NY,New York,Linwood,Genesee,42.884721,-77.910422
+18694,NY,New York,Lisbon,Saint Lawrence,44.718424,-75.269364
+18695,NY,New York,Lisle,Broome,42.340923,-76.030237
+18696,NY,New York,Little Falls,Herkimer,43.047371,-74.860598
+18697,NY,New York,Little Genesee,Allegany,42.023964,-78.235056
+18698,NY,New York,Little Neck,Queens,40.759131,-73.732622
+18699,NY,New York,Little Valley,Cattaraugus,42.254121,-78.809286
+18700,NY,New York,Little York,Cortland,42.695833,-76.164722
+18701,NY,New York,Liverpool,Onondaga,43.109925,-76.186999
+18702,NY,New York,Livingston,Columbia,42.141944,-73.778333
+18703,NY,New York,Livingston Manor,Sullivan,41.87779,-74.827028
+18704,NY,New York,Livonia,Livingston,42.813514,-77.663472
+18705,NY,New York,Livonia Center,Livingston,42.821389,-77.638889
+18706,NY,New York,Loch Sheldrake,Sullivan,41.778899,-74.661406
+18707,NY,New York,Locke,Cayuga,42.655789,-76.415436
+18708,NY,New York,Lockport,Niagara,43.159987,-78.692344
+18709,NY,New York,Lockwood,Tioga,42.114943,-76.536618
+18710,NY,New York,Locust Valley,Nassau,40.881728,-73.59271
+18711,NY,New York,Lodi,Seneca,42.596555,-76.833904
+18712,NY,New York,Long Beach,Nassau,40.587697,-73.659467
+18713,NY,New York,Long Eddy,Sullivan,41.864359,-75.094157
+18714,NY,New York,Long Island City,Queens,40.750316,-73.939393
+18715,NY,New York,Long Lake,Hamilton,43.947653,-74.466243
+18716,NY,New York,Lorraine,Jefferson,43.756845,-75.905339
+18717,NY,New York,Lowman,Chemung,42.06938,-76.693005
+18718,NY,New York,Lowville,Lewis,43.801055,-75.475378
+18719,NY,New York,Lycoming,Oswego,43.498611,-76.386111
+18720,NY,New York,Lynbrook,Nassau,40.657107,-73.674143
+18721,NY,New York,Lyndonville,Orleans,43.323312,-78.381057
+18722,NY,New York,Lyon Mountain,Clinton,44.725491,-73.919452
+18723,NY,New York,Lyons,Wayne,43.07768,-76.989575
+18724,NY,New York,Lyons Falls,Lewis,43.626165,-75.355312
+18725,NY,New York,Macedon,Wayne,43.078366,-77.337199
+18726,NY,New York,Machias,Cattaraugus,42.408271,-78.50586
+18727,NY,New York,Madison,Madison,42.896854,-75.507562
+18728,NY,New York,Madrid,Saint Lawrence,44.768978,-75.14134
+18729,NY,New York,Mahopac,Putnam,41.371708,-73.750755
+18730,NY,New York,Mahopac Falls,Putnam,41.371944,-73.762222
+18731,NY,New York,Maine,Broome,42.196204,-76.059526
+18732,NY,New York,Malden Bridge,Columbia,42.460201,-73.587958
+18733,NY,New York,Malden On Hudson,Ulster,42.095278,-73.934444
+18734,NY,New York,Mallory,Oswego,43.33782,-76.089208
+18735,NY,New York,Malone,Franklin,44.848164,-74.292808
+18736,NY,New York,Malverne,Nassau,40.674982,-73.673073
+18737,NY,New York,Mamaroneck,Westchester,40.952481,-73.735037
+18738,NY,New York,Manchester,Ontario,42.969874,-77.229733
+18739,NY,New York,Manhasset,Nassau,40.798641,-73.688369
+18740,NY,New York,Manlius,Onondaga,42.990441,-75.970345
+18741,NY,New York,Mannsville,Jefferson,43.717905,-76.08203
+18742,NY,New York,Manorville,Suffolk,40.842102,-72.800208
+18743,NY,New York,Maple Springs,Chautauqua,42.196667,-79.424167
+18744,NY,New York,Maple View,Oswego,43.457222,-76.145556
+18745,NY,New York,Maplecrest,Greene,42.299485,-74.165522
+18746,NY,New York,Marathon,Cortland,42.452725,-76.039526
+18747,NY,New York,Marcellus,Onondaga,42.982056,-76.33228
+18748,NY,New York,Marcy,Oneida,43.163926,-75.278335
+18749,NY,New York,Margaretville,Delaware,42.163702,-74.648853
+18750,NY,New York,Marietta,Onondaga,42.897441,-76.28055
+18751,NY,New York,Marilla,Erie,42.833216,-78.558656
+18752,NY,New York,Marion,Wayne,43.154612,-77.186277
+18753,NY,New York,Marlboro,Ulster,41.605612,-73.988017
+18754,NY,New York,Martinsburg,Lewis,43.7375,-75.47
+18755,NY,New York,Martville,Cayuga,43.26608,-76.628936
+18756,NY,New York,Maryknoll,Westchester,41.179167,-73.832778
+18757,NY,New York,Maryland,Otsego,42.537075,-74.903033
+18758,NY,New York,Masonville,Delaware,42.262346,-75.215485
+18759,NY,New York,Maspeth,Queens,40.723865,-73.899682
+18760,NY,New York,Massapequa,Nassau,40.685738,-73.469727
+18761,NY,New York,Massapequa Park,Nassau,40.680673,-73.444447
+18762,NY,New York,Massena,Saint Lawrence,44.932411,-74.886205
+18763,NY,New York,Mastic,Suffolk,40.80644,-72.856608
+18764,NY,New York,Mastic Beach,Suffolk,40.765653,-72.853701
+18765,NY,New York,Mattituck,Suffolk,40.994336,-72.536296
+18766,NY,New York,Maybrook,Orange,41.48865,-74.216312
+18767,NY,New York,Mayfield,Fulton,43.141133,-74.244397
+18768,NY,New York,Mayville,Chautauqua,42.240906,-79.496325
+18769,NY,New York,Mc Connellsville,Oneida,43.289552,-75.652477
+18770,NY,New York,Mc Donough,Chenango,42.506807,-75.762305
+18771,NY,New York,Mc Graw,Cortland,42.594758,-76.081958
+18772,NY,New York,Mc Lean,Tompkins,42.560556,-76.2775
+18773,NY,New York,Mechanicville,Saratoga,42.967613,-73.673173
+18774,NY,New York,Mecklenburg,Schuyler,42.4575,-76.710556
+18775,NY,New York,Medford,Suffolk,40.817416,-72.985214
+18776,NY,New York,Medina,Orleans,43.218428,-78.387422
+18777,NY,New York,Medusa,Albany,42.451504,-74.131524
+18778,NY,New York,Mellenville,Columbia,42.253056,-73.668056
+18779,NY,New York,Melrose,Rensselaer,42.841163,-73.607667
+18780,NY,New York,Melville,Suffolk,40.794606,-73.402963
+18781,NY,New York,Memphis,Onondaga,43.093438,-76.40301
+18782,NY,New York,Mendon,Monroe,42.995307,-77.50013
+18783,NY,New York,Meridale,Delaware,42.377987,-74.980258
+18784,NY,New York,Meridian,Cayuga,43.165556,-76.537222
+18785,NY,New York,Merrick,Nassau,40.668312,-73.555001
+18786,NY,New York,Mexico,Oswego,43.460533,-76.244588
+18787,NY,New York,Middle Falls,Washington,43.100556,-73.525278
+18788,NY,New York,Middle Granville,Washington,43.450773,-73.303077
+18789,NY,New York,Middle Grove,Saratoga,43.097548,-74.016687
+18790,NY,New York,Middle Island,Suffolk,40.878212,-72.952539
+18791,NY,New York,Middle Village,Queens,40.717286,-73.879228
+18792,NY,New York,Middleburgh,Schoharie,42.563734,-74.329168
+18793,NY,New York,Middleport,Niagara,43.218257,-78.484055
+18794,NY,New York,Middlesex,Yates,42.697624,-77.280509
+18795,NY,New York,Middletown,Orange,41.457222,-74.412023
+18796,NY,New York,Middleville,Herkimer,43.136933,-74.923978
+18797,NY,New York,Milford,Otsego,42.614801,-74.968498
+18798,NY,New York,Mill Neck,Nassau,40.88574,-73.552602
+18799,NY,New York,Millbrook,Dutchess,41.780334,-73.688491
+18800,NY,New York,Miller Place,Suffolk,40.943572,-72.991349
+18801,NY,New York,Millerton,Dutchess,41.953623,-73.528709
+18802,NY,New York,Millport,Chemung,42.258084,-76.839233
+18803,NY,New York,Millwood,Westchester,41.201519,-73.792626
+18804,NY,New York,Milton,Ulster,41.653487,-73.977194
+18805,NY,New York,Mineola,Nassau,40.746927,-73.639761
+18806,NY,New York,Minerva,Essex,43.781058,-73.983542
+18807,NY,New York,Minetto,Oswego,43.398056,-76.477778
+18808,NY,New York,Mineville,Essex,44.087631,-73.523588
+18809,NY,New York,Minoa,Onondaga,43.077212,-76.009812
+18810,NY,New York,Model City,Niagara,43.185,-78.983889
+18811,NY,New York,Modena,Ulster,41.650347,-74.103578
+18812,NY,New York,Mohawk,Herkimer,42.989986,-74.985298
+18813,NY,New York,Mohegan Lake,Westchester,41.314348,-73.850836
+18814,NY,New York,Moira,Franklin,44.850412,-74.560273
+18815,NY,New York,Mongaup Valley,Sullivan,41.681017,-74.802772
+18816,NY,New York,Monroe,Orange,41.330556,-74.187222
+18817,NY,New York,Monsey,Rockland,41.116255,-74.0736
+18818,NY,New York,Montauk,Suffolk,41.045853,-71.943963
+18819,NY,New York,Montezuma,Cayuga,43.01,-76.703611
+18820,NY,New York,Montgomery,Orange,41.53332,-74.253417
+18821,NY,New York,Monticello,Sullivan,41.65158,-74.700748
+18822,NY,New York,Montour Falls,Schuyler,42.343678,-76.839581
+18823,NY,New York,Montrose,Westchester,41.249585,-73.944593
+18824,NY,New York,Mooers,Clinton,44.959244,-73.583413
+18825,NY,New York,Mooers Forks,Clinton,44.960232,-73.672967
+18826,NY,New York,Moravia,Cayuga,42.735456,-76.39898
+18827,NY,New York,Moriah,Essex,44.043755,-73.507862
+18828,NY,New York,Moriah Center,Essex,44.066197,-73.511071
+18829,NY,New York,Moriches,Suffolk,40.809502,-72.822918
+18830,NY,New York,Morris,Otsego,42.547807,-75.244764
+18831,NY,New York,Morrisonville,Clinton,44.68936,-73.577168
+18832,NY,New York,Morristown,Saint Lawrence,44.586389,-75.648611
+18833,NY,New York,Morrisville,Madison,42.910805,-75.648656
+18834,NY,New York,Morton,Monroe,43.328056,-77.995556
+18835,NY,New York,Mottville,Onondaga,42.973611,-76.442778
+18836,NY,New York,Mount Kisco,Westchester,41.204966,-73.729921
+18837,NY,New York,Mount Marion,Ulster,42.035704,-74.000211
+18838,NY,New York,Mount Morris,Livingston,42.705431,-77.861083
+18839,NY,New York,Mount Sinai,Suffolk,40.927092,-73.012732
+18840,NY,New York,Mount Tremper,Ulster,42.043545,-74.248481
+18841,NY,New York,Mount Upton,Chenango,42.408064,-75.400268
+18842,NY,New York,Mount Vernon,Westchester,40.907863,-73.837961
+18843,NY,New York,Mount Vision,Otsego,42.606763,-75.126366
+18844,NY,New York,Mountain Dale,Sullivan,41.691763,-74.535762
+18845,NY,New York,Mountainville,Orange,41.400833,-74.078889
+18846,NY,New York,Mumford,Monroe,42.992778,-77.860556
+18847,NY,New York,Munnsville,Madison,42.986326,-75.594032
+18848,NY,New York,Nanuet,Rockland,41.099176,-74.009589
+18849,NY,New York,Napanoch,Ulster,41.758965,-74.380354
+18850,NY,New York,Naples,Ontario,42.640425,-77.390106
+18851,NY,New York,Narrowsburg,Sullivan,41.592108,-75.010687
+18852,NY,New York,Nassau,Rensselaer,42.527141,-73.611753
+18853,NY,New York,Natural Bridge,Jefferson,44.062982,-75.503883
+18854,NY,New York,Nedrow,Onondaga,42.955855,-76.152932
+18855,NY,New York,Nelliston,Montgomery,42.934722,-74.613889
+18856,NY,New York,Nesconset,Suffolk,40.846206,-73.1482
+18857,NY,New York,Neversink,Sullivan,41.849205,-74.612726
+18858,NY,New York,New Baltimore,Greene,42.446111,-73.788889
+18859,NY,New York,New Berlin,Chenango,42.622414,-75.347406
+18860,NY,New York,New City,Rockland,41.147247,-73.996206
+18861,NY,New York,New Hampton,Orange,41.362714,-74.443483
+18862,NY,New York,New Hartford,Oneida,43.065412,-75.290551
+18863,NY,New York,New Haven,Oswego,43.479722,-76.315556
+18864,NY,New York,New Hyde Park,Nassau,40.743926,-73.68042
+18865,NY,New York,New Kingston,Delaware,42.213611,-74.6825
+18866,NY,New York,New Lebanon,Columbia,42.475865,-73.377295
+18867,NY,New York,New Lisbon,Otsego,42.578968,-75.327436
+18868,NY,New York,New Milford,Orange,41.234444,-74.414167
+18869,NY,New York,New Paltz,Ulster,41.743346,-74.083875
+18870,NY,New York,New Rochelle,Westchester,40.916628,-73.787729
+18871,NY,New York,New Russia,Essex,44.159532,-73.605881
+18872,NY,New York,New Suffolk,Suffolk,40.991389,-72.476389
+18873,NY,New York,New Windsor,Orange,41.472374,-74.056596
+18874,NY,New York,New Woodstock,Madison,42.844135,-75.863526
+18875,NY,New York,New York,New York,40.74838,-73.996705
+18876,NY,New York,New York Mills,Oneida,43.100038,-75.29369
+18877,NY,New York,Newark,Wayne,43.051909,-77.094602
+18878,NY,New York,Newark Valley,Tioga,42.228136,-76.16248
+18879,NY,New York,Newburgh,Orange,41.517833,-74.03598
+18880,NY,New York,Newcomb,Essex,43.945991,-74.129911
+18881,NY,New York,Newfane,Niagara,43.272443,-78.706972
+18882,NY,New York,Newfield,Tompkins,42.362137,-76.591978
+18883,NY,New York,Newport,Herkimer,43.180002,-74.986133
+18884,NY,New York,Newton Falls,Saint Lawrence,44.198584,-74.98456
+18885,NY,New York,Newtonville,Albany,42.724444,-73.758889
+18886,NY,New York,Niagara Falls,Niagara,43.095467,-79.041443
+18887,NY,New York,Niagara University,Niagara,43.138333,-79.039167
+18888,NY,New York,Nichols,Tioga,42.031961,-76.361039
+18889,NY,New York,Nicholville,Saint Lawrence,44.708182,-74.653379
+18890,NY,New York,Nineveh,Broome,42.162481,-75.548409
+18891,NY,New York,Niobe,Chautauqua,42.0125,-79.449722
+18892,NY,New York,Niverville,Columbia,42.927575,-73.485614
+18893,NY,New York,Norfolk,Saint Lawrence,44.84235,-74.957736
+18894,NY,New York,North Babylon,Suffolk,40.732102,-73.323581
+18895,NY,New York,North Bangor,Franklin,44.829997,-74.413369
+18896,NY,New York,North Bay,Oneida,43.23,-75.748611
+18897,NY,New York,North Blenheim,Schoharie,42.489938,-74.428174
+18898,NY,New York,North Boston,Erie,42.685556,-78.776944
+18899,NY,New York,North Branch,Sullivan,41.814184,-74.982388
+18900,NY,New York,North Brookfield,Madison,42.850088,-75.381489
+18901,NY,New York,North Chatham,Columbia,42.471944,-73.632222
+18902,NY,New York,North Chili,Monroe,43.118601,-77.800518
+18903,NY,New York,North Collins,Erie,42.589648,-78.91073
+18904,NY,New York,North Creek,Warren,43.713802,-73.892802
+18905,NY,New York,North Evans,Erie,42.696944,-78.941667
+18906,NY,New York,North Granville,Washington,43.506212,-73.330114
+18907,NY,New York,North Greece,Monroe,43.253611,-77.732778
+18908,NY,New York,North Hoosick,Rensselaer,42.928056,-73.343333
+18909,NY,New York,North Hudson,Essex,43.986872,-73.712065
+18910,NY,New York,North Java,Wyoming,42.677631,-78.337958
+18911,NY,New York,North Lawrence,Saint Lawrence,44.774982,-74.665307
+18912,NY,New York,North Norwich,Chenango,42.616944,-75.527222
+18913,NY,New York,North Pitcher,Chenango,42.637243,-75.816359
+18914,NY,New York,North River,Warren,43.738611,-74.049167
+18915,NY,New York,North Rose,Wayne,43.196439,-76.915152
+18916,NY,New York,North Salem,Westchester,41.341388,-73.592947
+18917,NY,New York,North Tonawanda,Niagara,43.049828,-78.850997
+18918,NY,New York,Northport,Suffolk,40.905062,-73.330889
+18919,NY,New York,Northville,Fulton,43.237126,-74.168361
+18920,NY,New York,Norwich,Chenango,42.54145,-75.527431
+18921,NY,New York,Norwood,Saint Lawrence,44.747193,-74.999188
+18922,NY,New York,Nunda,Livingston,42.586708,-77.918006
+18923,NY,New York,Nyack,Rockland,41.091351,-73.925226
+18924,NY,New York,Oak Hill,Greene,42.406902,-74.152832
+18925,NY,New York,Oakdale,Suffolk,40.738224,-73.12969
+18926,NY,New York,Oakfield,Genesee,43.071726,-78.270179
+18927,NY,New York,Oakland Gardens,Queens,40.745847,-73.758646
+18928,NY,New York,Oaks Corners,Ontario,42.932222,-77.012778
+18929,NY,New York,Obernburg,Sullivan,41.844722,-75.0075
+18930,NY,New York,Ocean Beach,Suffolk,40.646667,-73.1575
+18931,NY,New York,Oceanside,Nassau,40.636199,-73.637533
+18932,NY,New York,Odessa,Schuyler,42.360947,-76.771698
+18933,NY,New York,Ogdensburg,Saint Lawrence,44.690203,-75.477403
+18934,NY,New York,Olcott,Niagara,43.337778,-78.715
+18935,NY,New York,Old Bethpage,Nassau,40.764991,-73.457481
+18936,NY,New York,Old Chatham,Columbia,42.435692,-73.55447
+18937,NY,New York,Old Forge,Herkimer,43.74347,-74.893511
+18938,NY,New York,Old Westbury,Nassau,40.78821,-73.587515
+18939,NY,New York,Olean,Cattaraugus,42.0787,-78.423265
+18940,NY,New York,Olivebridge,Ulster,41.895906,-74.246954
+18941,NY,New York,Olmstedville,Essex,43.779931,-73.933479
+18942,NY,New York,Oneida,Madison,43.086248,-75.650814
+18943,NY,New York,Oneonta,Otsego,42.462453,-75.049072
+18944,NY,New York,Ontario,Wayne,43.229092,-77.308781
+18945,NY,New York,Ontario Center,Wayne,43.225833,-77.306111
+18946,NY,New York,Orangeburg,Rockland,41.044183,-73.960873
+18947,NY,New York,Orchard Park,Erie,42.763891,-78.751834
+18948,NY,New York,Orient,Suffolk,41.143741,-72.287894
+18949,NY,New York,Oriskany,Oneida,43.152427,-75.343437
+18950,NY,New York,Oriskany Falls,Oneida,42.957585,-75.483807
+18951,NY,New York,Orwell,Oswego,43.574722,-75.996667
+18952,NY,New York,Ossining,Westchester,41.167344,-73.853791
+18953,NY,New York,Oswegatchie,Saint Lawrence,44.193328,-75.065947
+18954,NY,New York,Oswego,Oswego,43.443836,-76.497489
+18955,NY,New York,Otego,Otsego,42.41333,-75.207883
+18956,NY,New York,Otisville,Orange,41.481806,-74.529413
+18957,NY,New York,Otto,Cattaraugus,42.356111,-78.831944
+18958,NY,New York,Ouaquaga,Broome,42.119293,-75.647351
+18959,NY,New York,Ovid,Seneca,42.676979,-76.821575
+18960,NY,New York,Owego,Tioga,42.113809,-76.252797
+18961,NY,New York,Owls Head,Franklin,44.730791,-74.134173
+18962,NY,New York,Oxbow,Jefferson,44.287222,-75.623333
+18963,NY,New York,Oxford,Chenango,42.443375,-75.606256
+18964,NY,New York,Oyster Bay,Nassau,40.866012,-73.527212
+18965,NY,New York,Ozone Park,Queens,40.683753,-73.851397
+18966,NY,New York,Painted Post,Steuben,42.170967,-77.119375
+18967,NY,New York,Palatine Bridge,Montgomery,42.922119,-74.570825
+18968,NY,New York,Palenville,Greene,42.17294,-74.016674
+18969,NY,New York,Palisades,Rockland,41.010263,-73.924985
+18970,NY,New York,Palmyra,Wayne,43.062192,-77.221798
+18971,NY,New York,Panama,Chautauqua,42.056965,-79.481536
+18972,NY,New York,Paradox,Essex,43.891382,-73.644956
+18973,NY,New York,Parish,Oswego,43.415295,-76.100023
+18974,NY,New York,Parishville,Saint Lawrence,44.592655,-74.794062
+18975,NY,New York,Parksville,Sullivan,41.851686,-74.735933
+18976,NY,New York,Patchogue,Suffolk,40.773501,-72.998108
+18977,NY,New York,Patterson,Putnam,41.488761,-73.58149
+18978,NY,New York,Pattersonville,Schenectady,42.84995,-74.123126
+18979,NY,New York,Paul Smiths,Franklin,44.444967,-74.266432
+18980,NY,New York,Pavilion,Genesee,42.880088,-78.014698
+18981,NY,New York,Pawling,Dutchess,41.574893,-73.594847
+18982,NY,New York,Pearl River,Rockland,41.062939,-74.01587
+18983,NY,New York,Peconic,Suffolk,41.047778,-72.463611
+18984,NY,New York,Peekskill,Westchester,41.293722,-73.902562
+18985,NY,New York,Pelham,Westchester,40.904455,-73.807304
+18986,NY,New York,Penfield,Monroe,43.139638,-77.456043
+18987,NY,New York,Penn Yan,Yates,42.664548,-77.05687
+18988,NY,New York,Pennellville,Oswego,43.260946,-76.239466
+18989,NY,New York,Perkinsville,Steuben,42.539722,-77.628611
+18990,NY,New York,Perry,Wyoming,42.722852,-78.005882
+18991,NY,New York,Perrysburg,Cattaraugus,42.472289,-78.998108
+18992,NY,New York,Peru,Clinton,44.585109,-73.529322
+18993,NY,New York,Peterboro,Madison,42.967222,-75.688333
+18994,NY,New York,Petersburg,Rensselaer,42.736367,-73.371033
+18995,NY,New York,Phelps,Ontario,42.958178,-77.047264
+18996,NY,New York,Philadelphia,Jefferson,44.158896,-75.709917
+18997,NY,New York,Phillipsport,Sullivan,41.639167,-74.446111
+18998,NY,New York,Philmont,Columbia,42.248333,-73.653611
+18999,NY,New York,Phoenicia,Ulster,42.054426,-74.339328
+19000,NY,New York,Phoenix,Oswego,43.24679,-76.306449
+19001,NY,New York,Piercefield,Saint Lawrence,44.234037,-74.573228
+19002,NY,New York,Piermont,Rockland,41.03955,-73.919187
+19003,NY,New York,Pierrepont Manor,Jefferson,43.735,-76.059167
+19004,NY,New York,Piffard,Livingston,42.84269,-77.882545
+19005,NY,New York,Pike,Wyoming,42.556389,-78.153056
+19006,NY,New York,Pine Bush,Orange,41.617758,-74.326311
+19007,NY,New York,Pine City,Chemung,42.041938,-76.881519
+19008,NY,New York,Pine Hill,Ulster,42.133974,-74.487562
+19009,NY,New York,Pine Island,Orange,41.323796,-74.379457
+19010,NY,New York,Pine Plains,Dutchess,41.989569,-73.660227
+19011,NY,New York,Pine Valley,Chemung,42.234795,-76.865206
+19012,NY,New York,Piseco,Hamilton,43.448125,-74.526282
+19013,NY,New York,Pitcher,Chenango,42.596941,-75.846464
+19014,NY,New York,Pittsford,Monroe,43.069511,-77.514067
+19015,NY,New York,Plainview,Nassau,40.778099,-73.481638
+19016,NY,New York,Plainville,Onondaga,43.159167,-76.4475
+19017,NY,New York,Plattekill,Ulster,41.6175,-74.076389
+19018,NY,New York,Plattsburgh,Clinton,44.692715,-73.465969
+19019,NY,New York,Pleasant Valley,Dutchess,41.747032,-73.814276
+19020,NY,New York,Pleasantville,Westchester,41.134977,-73.784484
+19021,NY,New York,Plessis,Jefferson,44.277364,-75.849577
+19022,NY,New York,Plymouth,Chenango,42.633592,-75.617163
+19023,NY,New York,Poestenkill,Rensselaer,42.679548,-73.588846
+19024,NY,New York,Point Lookout,Nassau,40.592222,-73.581111
+19025,NY,New York,Poland,Herkimer,43.211458,-75.07313
+19026,NY,New York,Pomona,Rockland,41.190105,-74.043564
+19027,NY,New York,Pompey,Onondaga,42.898889,-76.016389
+19028,NY,New York,Pond Eddy,Sullivan,41.451068,-74.841029
+19029,NY,New York,Poplar Ridge,Cayuga,42.738333,-76.618333
+19030,NY,New York,Port Byron,Cayuga,43.042653,-76.644919
+19031,NY,New York,Port Chester,Westchester,41.007755,-73.672045
+19032,NY,New York,Port Crane,Broome,42.195735,-75.790978
+19033,NY,New York,Port Ewen,Ulster,41.913113,-73.987161
+19034,NY,New York,Port Gibson,Ontario,43.034444,-77.157778
+19035,NY,New York,Port Henry,Essex,44.04645,-73.470542
+19036,NY,New York,Port Jefferson,Suffolk,40.945687,-73.061093
+19037,NY,New York,Port Jefferson Station,Suffolk,40.911722,-73.052136
+19038,NY,New York,Port Jervis,Orange,41.378557,-74.669097
+19039,NY,New York,Port Kent,Essex,44.528056,-73.4075
+19040,NY,New York,Port Leyden,Lewis,43.580245,-75.326257
+19041,NY,New York,Port Washington,Nassau,40.834995,-73.696356
+19042,NY,New York,Portageville,Wyoming,42.556957,-78.085635
+19043,NY,New York,Porter Corners,Saratoga,43.172358,-73.883918
+19044,NY,New York,Portland,Chautauqua,42.385792,-79.458894
+19045,NY,New York,Portlandville,Otsego,42.510303,-74.976059
+19046,NY,New York,Portville,Cattaraugus,42.027253,-78.331353
+19047,NY,New York,Potsdam,Saint Lawrence,44.659246,-74.968076
+19048,NY,New York,Pottersville,Warren,43.692956,-73.756438
+19049,NY,New York,Poughkeepsie,Dutchess,41.702082,-73.9218
+19050,NY,New York,Poughquag,Dutchess,41.61936,-73.678328
+19051,NY,New York,Pound Ridge,Westchester,41.204196,-73.573215
+19052,NY,New York,Prattsburgh,Steuben,42.526918,-77.282455
+19053,NY,New York,Prattsville,Greene,42.297904,-74.389502
+19054,NY,New York,Preble,Cortland,42.79501,-76.214105
+19055,NY,New York,Preston Hollow,Albany,42.456348,-74.24199
+19056,NY,New York,Prospect,Oneida,43.304167,-75.1525
+19057,NY,New York,Pulaski,Oswego,43.55617,-76.125231
+19058,NY,New York,Pulteney,Steuben,42.523275,-77.169108
+19059,NY,New York,Pultneyville,Wayne,43.279722,-77.186389
+19060,NY,New York,Purchase,Westchester,41.038396,-73.715629
+19061,NY,New York,Purdys,Westchester,41.322427,-73.654313
+19062,NY,New York,Purling,Greene,42.275497,-74.01138
+19063,NY,New York,Putnam Station,Washington,43.755976,-73.412299
+19064,NY,New York,Putnam Valley,Putnam,41.372815,-73.85024
+19065,NY,New York,Pyrites,Saint Lawrence,44.514722,-75.186111
+19066,NY,New York,Quaker Street,Schenectady,42.734722,-74.186667
+19067,NY,New York,Queens Village,Queens,40.727707,-73.748908
+19068,NY,New York,Queensbury,Warren,43.328983,-73.681846
+19069,NY,New York,Quogue,Suffolk,40.823056,-72.61
+19070,NY,New York,Rainbow Lake,Franklin,44.466944,-74.173333
+19071,NY,New York,Randolph,Cattaraugus,42.163143,-78.960034
+19072,NY,New York,Ransomville,Niagara,43.228602,-78.898159
+19073,NY,New York,Raquette Lake,Hamilton,43.866224,-74.537959
+19074,NY,New York,Ravena,Albany,42.475371,-73.821991
+19075,NY,New York,Ray Brook,Essex,44.3,-74.085833
+19076,NY,New York,Raymondville,Saint Lawrence,44.838056,-74.978333
+19077,NY,New York,Reading Center,Schuyler,42.430278,-76.933056
+19078,NY,New York,Red Creek,Wayne,43.229068,-76.714556
+19079,NY,New York,Red Hook,Dutchess,42.006439,-73.854577
+19080,NY,New York,Redfield,Oswego,43.565794,-75.82423
+19081,NY,New York,Redford,Clinton,44.606926,-73.801948
+19082,NY,New York,Redwood,Jefferson,44.321077,-75.814975
+19083,NY,New York,Rego Park,Queens,40.72775,-73.860191
+19084,NY,New York,Remsen,Oneida,43.338456,-75.161618
+19085,NY,New York,Remsenburg,Suffolk,40.8075,-72.709167
+19086,NY,New York,Rensselaer,Rensselaer,42.635855,-73.721895
+19087,NY,New York,Rensselaer Falls,Saint Lawrence,44.590635,-75.32261
+19088,NY,New York,Rensselaerville,Albany,42.513288,-74.147431
+19089,NY,New York,Retsof,Livingston,42.835278,-77.879167
+19090,NY,New York,Rexford,Saratoga,42.852411,-73.8701
+19091,NY,New York,Rexville,Steuben,42.072645,-77.676663
+19092,NY,New York,Rhinebeck,Dutchess,41.927206,-73.888754
+19093,NY,New York,Rhinecliff,Dutchess,41.919444,-73.951667
+19094,NY,New York,Richburg,Allegany,42.088333,-78.153611
+19095,NY,New York,Richfield Springs,Otsego,42.850298,-74.992214
+19096,NY,New York,Richford,Tioga,42.394521,-76.186501
+19097,NY,New York,Richland,Oswego,43.577578,-76.002918
+19098,NY,New York,Richmond Hill,Queens,40.698171,-73.834484
+19099,NY,New York,Richmondville,Schoharie,42.642445,-74.571001
+19100,NY,New York,Richville,Saint Lawrence,44.40454,-75.402455
+19101,NY,New York,Ridge,Suffolk,40.901846,-72.888135
+19102,NY,New York,Ridgewood,Queens,40.703613,-73.896122
+19103,NY,New York,Rifton,Ulster,41.8375,-74.037778
+19104,NY,New York,Riparius,Warren,43.661667,-73.8975
+19105,NY,New York,Ripley,Chautauqua,42.248175,-79.712103
+19106,NY,New York,Riverhead,Suffolk,40.926202,-72.651966
+19107,NY,New York,Rochester,Monroe,43.1683,-77.6026
+19108,NY,New York,Rock City Falls,Saratoga,43.066248,-73.921523
+19109,NY,New York,Rock Hill,Sullivan,41.613351,-74.587223
+19110,NY,New York,Rock Stream,Schuyler,42.448511,-76.936436
+19111,NY,New York,Rock Tavern,Orange,41.457523,-74.16588
+19112,NY,New York,Rockaway Park,Queens,40.579471,-73.839192
+19113,NY,New York,Rockville Centre,Nassau,40.663745,-73.638
+19114,NY,New York,Rocky Point,Suffolk,40.949206,-72.935681
+19115,NY,New York,Rodman,Jefferson,43.862217,-75.871879
+19116,NY,New York,Rome,Oneida,43.219349,-75.449758
+19117,NY,New York,Romulus,Seneca,42.761378,-76.853582
+19118,NY,New York,Ronkonkoma,Suffolk,40.820763,-73.1208
+19119,NY,New York,Roosevelt,Nassau,40.680171,-73.586697
+19120,NY,New York,Rooseveltown,Saint Lawrence,44.972778,-74.731389
+19121,NY,New York,Roscoe,Sullivan,41.945774,-74.923704
+19122,NY,New York,Rose,Wayne,43.153611,-76.878889
+19123,NY,New York,Roseboom,Otsego,42.788246,-74.74161
+19124,NY,New York,Rosedale,Queens,40.662141,-73.735265
+19125,NY,New York,Rosendale,Ulster,41.840248,-74.072999
+19126,NY,New York,Roslyn,Nassau,40.790668,-73.653362
+19127,NY,New York,Roslyn Heights,Nassau,40.784497,-73.640292
+19128,NY,New York,Rotterdam Junction,Schenectady,42.87296,-74.046857
+19129,NY,New York,Round Lake,Saratoga,42.925994,-73.770127
+19130,NY,New York,Round Top,Greene,42.267782,-74.052279
+19131,NY,New York,Rouses Point,Clinton,44.988413,-73.369083
+19132,NY,New York,Roxbury,Delaware,42.311688,-74.540519
+19133,NY,New York,Ruby,Ulster,42.018056,-74.015278
+19134,NY,New York,Rush,Monroe,42.998934,-77.665381
+19135,NY,New York,Rushford,Allegany,42.417216,-78.186704
+19136,NY,New York,Rushville,Yates,42.75973,-77.239538
+19137,NY,New York,Russell,Saint Lawrence,44.380668,-75.113778
+19138,NY,New York,Rye,Westchester,40.973403,-73.690721
+19139,NY,New York,Sabael,Hamilton,43.728333,-74.306111
+19140,NY,New York,Sackets Harbor,Jefferson,43.93983,-76.105039
+19141,NY,New York,Sag Harbor,Suffolk,40.981996,-72.30674
+19142,NY,New York,Sagaponack,Suffolk,40.925278,-72.278611
+19143,NY,New York,Saint Albans,Queens,40.698097,-73.758641
+19144,NY,New York,Saint Bonaventure,Cattaraugus,42.086111,-78.476944
+19145,NY,New York,Saint James,Suffolk,40.881299,-73.159121
+19146,NY,New York,Saint Johnsville,Montgomery,43.016995,-74.64604
+19147,NY,New York,Saint Regis Falls,Franklin,44.677298,-74.66032
+19148,NY,New York,Salamanca,Cattaraugus,42.16035,-78.73042
+19149,NY,New York,Salem,Washington,43.182785,-73.332703
+19150,NY,New York,Salisbury Center,Herkimer,43.162509,-74.780932
+19151,NY,New York,Salisbury Mills,Orange,41.449714,-74.121378
+19152,NY,New York,Salt Point,Dutchess,41.805041,-73.801329
+19153,NY,New York,Sanborn,Niagara,43.141879,-78.878522
+19154,NY,New York,Sand Lake,Rensselaer,42.637912,-73.498949
+19155,NY,New York,Sandusky,Cattaraugus,42.495833,-78.384722
+19156,NY,New York,Sandy Creek,Oswego,43.651681,-76.126439
+19157,NY,New York,Sangerfield,Oneida,42.913889,-75.379444
+19158,NY,New York,Saranac,Clinton,44.703168,-73.748135
+19159,NY,New York,Saranac Lake,Franklin,44.324331,-74.132951
+19160,NY,New York,Saratoga Springs,Saratoga,43.080094,-73.780644
+19161,NY,New York,Sardinia,Erie,42.532976,-78.506415
+19162,NY,New York,Saugerties,Ulster,42.07376,-73.979684
+19163,NY,New York,Sauquoit,Oneida,43.007291,-75.26259
+19164,NY,New York,Savannah,Wayne,43.093439,-76.75647
+19165,NY,New York,Savona,Steuben,42.30407,-77.208345
+19166,NY,New York,Sayville,Suffolk,40.74606,-73.082297
+19167,NY,New York,Scarsdale,Westchester,40.988365,-73.797566
+19168,NY,New York,Schaghticoke,Rensselaer,42.914356,-73.615428
+19169,NY,New York,Schenectady,Schenectady,42.8155,-73.9395
+19170,NY,New York,Schenevus,Otsego,42.59004,-74.814863
+19171,NY,New York,Schodack Landing,Rensselaer,42.481644,-73.747996
+19172,NY,New York,Schoharie,Schoharie,42.661503,-74.30473
+19173,NY,New York,Schroon Lake,Essex,43.841159,-73.767382
+19174,NY,New York,Schuyler Falls,Clinton,44.588224,-73.689481
+19175,NY,New York,Schuyler Lake,Otsego,42.780278,-75.028333
+19176,NY,New York,Schuylerville,Saratoga,43.087778,-73.60068
+19177,NY,New York,Scio,Allegany,42.169703,-77.990026
+19178,NY,New York,Scipio Center,Cayuga,42.778472,-76.574175
+19179,NY,New York,Scottsburg,Livingston,42.658907,-77.682633
+19180,NY,New York,Scottsville,Monroe,43.02462,-77.774256
+19181,NY,New York,Sea Cliff,Nassau,40.845984,-73.643598
+19182,NY,New York,Seaford,Nassau,40.679513,-73.491015
+19183,NY,New York,Selden,Suffolk,40.869883,-73.044848
+19184,NY,New York,Selkirk,Albany,42.54861,-73.812863
+19185,NY,New York,Seneca Castle,Ontario,42.886944,-77.096389
+19186,NY,New York,Seneca Falls,Seneca,42.909377,-76.792538
+19187,NY,New York,Severance,Essex,43.876903,-73.730127
+19188,NY,New York,Shandaken,Ulster,42.108353,-74.409084
+19189,NY,New York,Sharon Springs,Schoharie,42.763357,-74.591911
+19190,NY,New York,Shelter Island,Suffolk,41.064046,-72.336616
+19191,NY,New York,Shelter Island Heights,Suffolk,41.074205,-72.348082
+19192,NY,New York,Shenorock,Westchester,41.331667,-73.738611
+19193,NY,New York,Sherburne,Chenango,42.685885,-75.483027
+19194,NY,New York,Sheridan,Chautauqua,42.488333,-79.2375
+19195,NY,New York,Sherman,Chautauqua,42.163124,-79.585742
+19196,NY,New York,Sherrill,Oneida,43.070397,-75.598975
+19197,NY,New York,Shinhopple,Delaware,42.038611,-75.068056
+19198,NY,New York,Shirley,Suffolk,40.743932,-72.876043
+19199,NY,New York,Shokan,Ulster,41.976678,-74.211943
+19200,NY,New York,Shoreham,Suffolk,40.948493,-72.892685
+19201,NY,New York,Shortsville,Ontario,42.969034,-77.227312
+19202,NY,New York,Shrub Oak,Westchester,41.328608,-73.82732
+19203,NY,New York,Shushan,Washington,43.110575,-73.323148
+19204,NY,New York,Sidney,Delaware,42.307368,-75.3908
+19205,NY,New York,Sidney Center,Delaware,42.244085,-75.287057
+19206,NY,New York,Silver Bay,Warren,43.697804,-73.507062
+19207,NY,New York,Silver Creek,Chautauqua,42.535675,-79.162805
+19208,NY,New York,Silver Lake,Wyoming,42.701667,-78.022222
+19209,NY,New York,Silver Springs,Wyoming,42.669446,-78.092994
+19210,NY,New York,Sinclairville,Chautauqua,42.24548,-79.267297
+19211,NY,New York,Skaneateles,Onondaga,42.925751,-76.405174
+19212,NY,New York,Skaneateles Falls,Onondaga,42.993056,-76.456389
+19213,NY,New York,Slate Hill,Orange,41.376004,-74.484658
+19214,NY,New York,Slaterville Springs,Tompkins,42.401119,-76.315677
+19215,NY,New York,Slingerlands,Albany,42.648461,-73.871065
+19216,NY,New York,Sloansville,Schoharie,42.759852,-74.364174
+19217,NY,New York,Sloatsburg,Rockland,41.16047,-74.188107
+19218,NY,New York,Smallwood,Sullivan,41.665278,-74.819722
+19219,NY,New York,Smithboro,Tioga,42.033889,-76.400556
+19220,NY,New York,Smithtown,Suffolk,40.854186,-73.213816
+19221,NY,New York,Smithville Flats,Chenango,42.398894,-75.823719
+19222,NY,New York,Smyrna,Chenango,42.689565,-75.612124
+19223,NY,New York,Sodus,Wayne,43.221681,-77.05141
+19224,NY,New York,Sodus Point,Wayne,43.265058,-76.98833
+19225,NY,New York,Solsville,Madison,42.910556,-75.518056
+19226,NY,New York,Somers,Westchester,41.334568,-73.695145
+19227,NY,New York,Sonyea,Livingston,42.678889,-77.8275
+19228,NY,New York,Sound Beach,Suffolk,40.956707,-72.974172
+19229,NY,New York,South Bethlehem,Albany,42.531667,-73.847778
+19230,NY,New York,South Butler,Wayne,43.131389,-76.766111
+19231,NY,New York,South Byron,Genesee,43.048333,-78.065833
+19232,NY,New York,South Cairo,Greene,42.27338,-73.963982
+19233,NY,New York,South Colton,Saint Lawrence,44.504097,-74.860726
+19234,NY,New York,South Dayton,Cattaraugus,42.371803,-79.050132
+19235,NY,New York,South Fallsburg,Sullivan,41.704192,-74.644401
+19236,NY,New York,South Glens Falls,Saratoga,43.283911,-73.637947
+19237,NY,New York,South Jamesport,Suffolk,40.936389,-72.577778
+19238,NY,New York,South Kortright,Delaware,42.376994,-74.725901
+19239,NY,New York,South Lima,Livingston,42.855278,-77.675556
+19240,NY,New York,South New Berlin,Chenango,42.530569,-75.35249
+19241,NY,New York,South Otselic,Chenango,42.66256,-75.766919
+19242,NY,New York,South Ozone Park,Queens,40.675379,-73.815773
+19243,NY,New York,South Plymouth,Chenango,42.605254,-75.633
+19244,NY,New York,South Richmond Hill,Queens,40.688113,-73.823871
+19245,NY,New York,South Salem,Westchester,41.255261,-73.540224
+19246,NY,New York,South Wales,Erie,42.706271,-78.545219
+19247,NY,New York,Southampton,Suffolk,40.904341,-72.410271
+19248,NY,New York,Southfields,Orange,41.247959,-74.176182
+19249,NY,New York,Southold,Suffolk,41.05555,-72.429039
+19250,NY,New York,Sparkill,Rockland,41.025573,-73.92288
+19251,NY,New York,Sparrow Bush,Orange,41.435886,-74.723647
+19252,NY,New York,Speculator,Hamilton,43.504159,-74.36667
+19253,NY,New York,Spencer,Tioga,42.246736,-76.489853
+19254,NY,New York,Spencerport,Monroe,43.189502,-77.804333
+19255,NY,New York,Spencertown,Columbia,42.30908,-73.500754
+19256,NY,New York,Speonk,Suffolk,40.819444,-72.705833
+19257,NY,New York,Sprakers,Montgomery,42.848446,-74.453558
+19258,NY,New York,Spring Brook,Erie,42.818056,-78.675833
+19259,NY,New York,Spring Glen,Ulster,41.665556,-74.430278
+19260,NY,New York,Spring Valley,Rockland,41.117977,-74.046253
+19261,NY,New York,Springfield Center,Otsego,42.850106,-74.938051
+19262,NY,New York,Springfield Gardens,Queens,40.67295,-73.75071
+19263,NY,New York,Springville,Erie,42.519982,-78.684717
+19264,NY,New York,Springwater,Livingston,42.677598,-77.577503
+19265,NY,New York,Staatsburg,Dutchess,41.850193,-73.898838
+19266,NY,New York,Stafford,Genesee,42.982894,-78.089783
+19267,NY,New York,Stamford,Delaware,42.417409,-74.609831
+19268,NY,New York,Stanfordville,Dutchess,41.887726,-73.694467
+19269,NY,New York,Stanley,Ontario,42.830277,-77.120702
+19270,NY,New York,Star Lake,Saint Lawrence,44.157762,-75.033015
+19271,NY,New York,Staten Island,Richmond,40.631602,-74.092663
+19272,NY,New York,Steamburg,Cattaraugus,42.108056,-78.904444
+19273,NY,New York,Stella Niagara,Niagara,43.201944,-79.0425
+19274,NY,New York,Stephentown,Rensselaer,42.523323,-73.422447
+19275,NY,New York,Sterling,Cayuga,43.329578,-76.674731
+19276,NY,New York,Sterling Forest,Orange,41.1825,-74.319167
+19277,NY,New York,Stillwater,Saratoga,42.905652,-73.697163
+19278,NY,New York,Stittville,Oneida,43.222889,-75.289854
+19279,NY,New York,Stockton,Chautauqua,42.318195,-79.375792
+19280,NY,New York,Stone Ridge,Ulster,41.861562,-74.169748
+19281,NY,New York,Stony Brook,Suffolk,40.900257,-73.125085
+19282,NY,New York,Stony Creek,Warren,43.421389,-73.949467
+19283,NY,New York,Stony Point,Rockland,41.229174,-73.996164
+19284,NY,New York,Stormville,Dutchess,41.551193,-73.725548
+19285,NY,New York,Stottville,Columbia,42.286111,-73.739167
+19286,NY,New York,Stow,Chautauqua,42.156667,-79.401667
+19287,NY,New York,Stratford,Fulton,43.179101,-74.676786
+19288,NY,New York,Strykersville,Wyoming,42.724892,-78.434714
+19289,NY,New York,Stuyvesant,Columbia,42.359572,-73.761329
+19290,NY,New York,Stuyvesant Falls,Columbia,42.355278,-73.731389
+19291,NY,New York,Suffern,Rockland,41.117654,-74.124098
+19292,NY,New York,Sugar Loaf,Orange,41.320833,-74.285833
+19293,NY,New York,Summit,Schoharie,42.587122,-74.574952
+19294,NY,New York,Summitville,Sullivan,41.621389,-74.451111
+19295,NY,New York,Sunnyside,Queens,40.743641,-73.921556
+19296,NY,New York,Surprise,Greene,42.361171,-73.951541
+19297,NY,New York,Swain,Allegany,42.477314,-77.88899
+19298,NY,New York,Swan Lake,Sullivan,41.728479,-74.834092
+19299,NY,New York,Sylvan Beach,Oneida,43.196389,-75.730833
+19300,NY,New York,Syosset,Nassau,40.826111,-73.5025
+19301,NY,New York,Syracuse,Onondaga,43.0459,-76.1528
+19302,NY,New York,Taberg,Oneida,43.336571,-75.602706
+19303,NY,New York,Tallman,Rockland,41.111111,-74.100278
+19304,NY,New York,Tannersville,Greene,42.203179,-74.101441
+19305,NY,New York,Tappan,Rockland,41.027751,-73.949065
+19306,NY,New York,Tarrytown,Westchester,41.078108,-73.859335
+19307,NY,New York,Thendara,Herkimer,43.7,-75.002222
+19308,NY,New York,Theresa,Jefferson,44.211288,-75.801419
+19309,NY,New York,Thiells,Rockland,41.207826,-74.015441
+19310,NY,New York,Thompson Ridge,Orange,41.580957,-74.377445
+19311,NY,New York,Thompsonville,Sullivan,41.668056,-74.625556
+19312,NY,New York,Thornwood,Westchester,41.118163,-73.773329
+19313,NY,New York,Thousand Island Park,Jefferson,44.286944,-76.028056
+19314,NY,New York,Three Mile Bay,Jefferson,44.055102,-76.26893
+19315,NY,New York,Ticonderoga,Essex,43.846302,-73.442592
+19316,NY,New York,Tillson,Ulster,41.816279,-74.072219
+19317,NY,New York,Tioga Center,Tioga,42.056111,-76.348333
+19318,NY,New York,Tivoli,Dutchess,42.057945,-73.902514
+19319,NY,New York,Tomkins Cove,Rockland,41.259763,-73.98916
+19320,NY,New York,Tonawanda,Erie,43.002837,-78.85472
+19321,NY,New York,Treadwell,Delaware,42.362963,-75.058754
+19322,NY,New York,Tribes Hill,Montgomery,42.955278,-74.285556
+19323,NY,New York,Troupsburg,Steuben,42.050083,-77.550208
+19324,NY,New York,Trout Creek,Delaware,42.203611,-75.279722
+19325,NY,New York,Troy,Albany,42.743812,-73.693707
+19326,NY,New York,Troy,Rensselaer,42.728748,-73.668263
+19327,NY,New York,Trumansburg,Tompkins,42.520987,-76.668145
+19328,NY,New York,Truxton,Cortland,42.708547,-76.018946
+19329,NY,New York,Tuckahoe,Westchester,40.95691,-73.819771
+19330,NY,New York,Tully,Onondaga,42.806977,-76.13936
+19331,NY,New York,Tunnel,Broome,42.216111,-75.726944
+19332,NY,New York,Tupper Lake,Franklin,44.228461,-74.463172
+19333,NY,New York,Turin,Lewis,43.644074,-75.413199
+19334,NY,New York,Tuxedo Park,Orange,41.192486,-74.215912
+19335,NY,New York,Tyrone,Schuyler,42.408056,-77.058611
+19336,NY,New York,Ulster Park,Ulster,41.865109,-73.994843
+19337,NY,New York,Unadilla,Otsego,42.325199,-75.336589
+19338,NY,New York,Union Hill,Wayne,43.222778,-77.371944
+19339,NY,New York,Union Springs,Cayuga,42.833546,-76.673959
+19340,NY,New York,Uniondale,Nassau,40.702029,-73.591995
+19341,NY,New York,Unionville,Orange,41.301944,-74.561944
+19342,NY,New York,Upper Jay,Essex,44.325586,-73.807864
+19343,NY,New York,Upton,Suffolk,40.869444,-72.887222
+19344,NY,New York,Utica,Oneida,43.087112,-75.231463
+19345,NY,New York,Vails Gate,Orange,41.454167,-74.058056
+19346,NY,New York,Valatie,Columbia,42.432051,-73.668322
+19347,NY,New York,Valhalla,Westchester,41.085559,-73.777596
+19348,NY,New York,Valley Cottage,Rockland,41.118338,-73.943006
+19349,NY,New York,Valley Falls,Rensselaer,42.885458,-73.543674
+19350,NY,New York,Valley Stream,Nassau,40.674184,-73.705738
+19351,NY,New York,Van Buren Point,Chautauqua,42.479444,-79.334167
+19352,NY,New York,Van Etten,Chemung,42.208455,-76.571663
+19353,NY,New York,Van Hornesville,Herkimer,42.894812,-74.834662
+19354,NY,New York,Varysburg,Wyoming,42.745935,-78.316749
+19355,NY,New York,Verbank,Dutchess,41.722664,-73.71841
+19356,NY,New York,Vermontville,Franklin,44.460134,-74.057278
+19357,NY,New York,Vernon,Oneida,43.094509,-75.56272
+19358,NY,New York,Vernon Center,Oneida,43.044309,-75.521028
+19359,NY,New York,Verona,Oneida,43.147311,-75.572399
+19360,NY,New York,Verona Beach,Oneida,43.190833,-75.729444
+19361,NY,New York,Verplanck,Westchester,41.252778,-73.960278
+19362,NY,New York,Versailles,Cattaraugus,42.518889,-78.996111
+19363,NY,New York,Vestal,Broome,42.077106,-76.011757
+19364,NY,New York,Victor,Ontario,42.986597,-77.417982
+19365,NY,New York,Victory Mills,Saratoga,43.087778,-73.594444
+19366,NY,New York,Voorheesville,Albany,42.643108,-73.944773
+19367,NY,New York,Waccabuc,Westchester,41.303208,-73.603207
+19368,NY,New York,Waddington,Saint Lawrence,44.856373,-75.204887
+19369,NY,New York,Wading River,Suffolk,40.952049,-72.834774
+19370,NY,New York,Wainscott,Suffolk,40.936667,-72.243333
+19371,NY,New York,Walden,Orange,41.559631,-74.176395
+19372,NY,New York,Wales Center,Erie,42.768333,-78.530278
+19373,NY,New York,Walker Valley,Ulster,41.628889,-74.371667
+19374,NY,New York,Wallkill,Ulster,41.615952,-74.143853
+19375,NY,New York,Walton,Delaware,42.175647,-75.153177
+19376,NY,New York,Walworth,Wayne,43.140161,-77.28582
+19377,NY,New York,Wampsville,Madison,43.075278,-75.707222
+19378,NY,New York,Wanakena,Saint Lawrence,44.2184,-75.090765
+19379,NY,New York,Wantagh,Nassau,40.684998,-73.51033
+19380,NY,New York,Wappingers Falls,Dutchess,41.592199,-73.890588
+19381,NY,New York,Warners,Onondaga,43.09317,-76.290413
+19382,NY,New York,Warnerville,Schoharie,42.638826,-74.487046
+19383,NY,New York,Warrensburg,Warren,43.500253,-73.792021
+19384,NY,New York,Warsaw,Wyoming,42.741035,-78.142899
+19385,NY,New York,Warwick,Orange,41.265563,-74.36037
+19386,NY,New York,Washington Mills,Oneida,43.05,-75.273333
+19387,NY,New York,Washingtonville,Orange,41.423701,-74.1601
+19388,NY,New York,Wassaic,Dutchess,41.775884,-73.554382
+19389,NY,New York,Water Mill,Suffolk,40.920929,-72.349069
+19390,NY,New York,Waterford,Saratoga,42.809957,-73.699481
+19391,NY,New York,Waterloo,Seneca,42.904515,-76.875498
+19392,NY,New York,Waterport,Orleans,43.332563,-78.242958
+19393,NY,New York,Watertown,Jefferson,43.974258,-75.912212
+19394,NY,New York,Waterville,Oneida,42.933244,-75.381466
+19395,NY,New York,Watervliet,Albany,42.729843,-73.712342
+19396,NY,New York,Watkins Glen,Schuyler,42.377121,-76.90215
+19397,NY,New York,Waverly,Tioga,42.017228,-76.533308
+19398,NY,New York,Wawarsing,Ulster,41.758889,-74.357778
+19399,NY,New York,Wayland,Steuben,42.559274,-77.590613
+19400,NY,New York,Wayne,Schuyler,42.470278,-77.105556
+19401,NY,New York,Webster,Monroe,43.219563,-77.461587
+19402,NY,New York,Weedsport,Cayuga,43.048882,-76.542502
+19403,NY,New York,Wellesley Island,Jefferson,44.2875,-76.0125
+19404,NY,New York,Wells,Hamilton,43.401219,-74.288583
+19405,NY,New York,Wells Bridge,Otsego,42.357973,-75.256565
+19406,NY,New York,Wellsburg,Chemung,42.027317,-76.772315
+19407,NY,New York,Wellsville,Allegany,42.110757,-77.94191
+19408,NY,New York,West Babylon,Suffolk,40.713476,-73.354591
+19409,NY,New York,West Bloomfield,Ontario,42.905833,-77.539444
+19410,NY,New York,West Burlington,Otsego,42.706229,-75.190603
+19411,NY,New York,West Camp,Ulster,42.123056,-73.935278
+19412,NY,New York,West Chazy,Clinton,44.796967,-73.511188
+19413,NY,New York,West Clarksville,Allegany,42.128056,-78.243333
+19414,NY,New York,West Copake,Columbia,42.095833,-73.582778
+19415,NY,New York,West Coxsackie,Greene,42.415055,-73.817033
+19416,NY,New York,West Davenport,Delaware,42.445833,-74.963611
+19417,NY,New York,West Eaton,Madison,42.854444,-75.656389
+19418,NY,New York,West Edmeston,Madison,42.794543,-75.303723
+19419,NY,New York,West Falls,Erie,42.70532,-78.677937
+19420,NY,New York,West Fulton,Schoharie,42.550615,-74.463105
+19421,NY,New York,West Harrison,Westchester,41.043295,-73.750727
+19422,NY,New York,West Haverstraw,Rockland,41.209016,-73.982123
+19423,NY,New York,West Hempstead,Nassau,40.692915,-73.653859
+19424,NY,New York,West Henrietta,Monroe,43.039667,-77.687131
+19425,NY,New York,West Hurley,Ulster,41.990816,-74.115232
+19426,NY,New York,West Islip,Suffolk,40.711734,-73.30072
+19427,NY,New York,West Kill,Greene,42.204584,-74.361994
+19428,NY,New York,West Lebanon,Columbia,42.486111,-73.466667
+19429,NY,New York,West Leyden,Lewis,43.459713,-75.512707
+19430,NY,New York,West Monroe,Oswego,43.288235,-76.079747
+19431,NY,New York,West Nyack,Rockland,41.097324,-73.976846
+19432,NY,New York,West Oneonta,Otsego,42.453854,-75.095689
+19433,NY,New York,West Park,Ulster,41.794444,-73.96
+19434,NY,New York,West Point,Orange,41.394545,-73.973666
+19435,NY,New York,West Sand Lake,Rensselaer,42.637969,-73.610896
+19436,NY,New York,West Sayville,Suffolk,40.731971,-73.100019
+19437,NY,New York,West Shokan,Ulster,41.955478,-74.285117
+19438,NY,New York,West Stockholm,Saint Lawrence,44.728951,-74.891932
+19439,NY,New York,West Valley,Cattaraugus,42.43153,-78.627978
+19440,NY,New York,West Winfield,Herkimer,42.882566,-75.183491
+19441,NY,New York,Westbrookville,Sullivan,41.375,-74.693056
+19442,NY,New York,Westbury,Nassau,40.755749,-73.57226
+19443,NY,New York,Westdale,Oneida,43.411671,-75.822587
+19444,NY,New York,Westerlo,Albany,42.515621,-74.039383
+19445,NY,New York,Westernville,Oneida,43.329413,-75.315118
+19446,NY,New York,Westfield,Chautauqua,42.321977,-79.572646
+19447,NY,New York,Westford,Otsego,42.503512,-75.100378
+19448,NY,New York,Westhampton,Suffolk,40.818031,-72.669931
+19449,NY,New York,Westhampton Beach,Suffolk,40.822783,-72.644757
+19450,NY,New York,Westmoreland,Oneida,43.101686,-75.453259
+19451,NY,New York,Westons Mills,Cattaraugus,42.062222,-78.3775
+19452,NY,New York,Westport,Essex,44.204983,-73.470223
+19453,NY,New York,Westtown,Orange,41.321414,-74.552946
+19454,NY,New York,Wevertown,Warren,43.64129,-73.930909
+19455,NY,New York,Whippleville,Franklin,44.809722,-74.262222
+19456,NY,New York,White Lake,Sullivan,41.648498,-74.865437
+19457,NY,New York,White Plains,Westchester,41.032955,-73.765231
+19458,NY,New York,White Sulphur Springs,Sullivan,41.790042,-74.828065
+19459,NY,New York,Whitehall,Washington,43.5531,-73.386412
+19460,NY,New York,Whitesboro,Oneida,43.115805,-75.309479
+19461,NY,New York,Whitestone,Queens,40.785147,-73.809594
+19462,NY,New York,Whitesville,Allegany,42.045586,-77.810615
+19463,NY,New York,Whitney Point,Broome,42.338449,-75.952231
+19464,NY,New York,Willard,Seneca,42.682222,-76.868889
+19465,NY,New York,Willet,Cortland,42.452044,-75.901434
+19466,NY,New York,Williamson,Wayne,43.242071,-77.170011
+19467,NY,New York,Williamstown,Oswego,43.410559,-75.904411
+19468,NY,New York,Williston Park,Nassau,40.759198,-73.644892
+19469,NY,New York,Willow,Ulster,42.092318,-74.202537
+19470,NY,New York,Willsboro,Essex,44.360396,-73.396292
+19471,NY,New York,Willseyville,Tioga,42.302915,-76.389721
+19472,NY,New York,Wilmington,Essex,44.387976,-73.816553
+19473,NY,New York,Wilson,Niagara,43.29681,-78.824396
+19474,NY,New York,Windham,Greene,42.317465,-74.262017
+19475,NY,New York,Windsor,Broome,42.074482,-75.672828
+19476,NY,New York,Wingdale,Dutchess,41.653824,-73.555621
+19477,NY,New York,Winthrop,Saint Lawrence,44.758289,-74.806586
+19478,NY,New York,Witherbee,Essex,44.0875,-73.533333
+19479,NY,New York,Wolcott,Wayne,43.234129,-76.821748
+19480,NY,New York,Woodbourne,Sullivan,41.770807,-74.592828
+19481,NY,New York,Woodbury,Nassau,40.815441,-73.471612
+19482,NY,New York,Woodgate,Oneida,43.54881,-75.119111
+19483,NY,New York,Woodhaven,Queens,40.691345,-73.858514
+19484,NY,New York,Woodhull,Steuben,42.073638,-77.420333
+19485,NY,New York,Woodmere,Nassau,40.63262,-73.714146
+19486,NY,New York,Woodridge,Sullivan,41.716955,-74.581518
+19487,NY,New York,Woodside,Queens,40.744972,-73.906911
+19488,NY,New York,Woodstock,Ulster,42.034793,-74.111974
+19489,NY,New York,Worcester,Otsego,42.604889,-74.72992
+19490,NY,New York,Wurtsboro,Sullivan,41.587667,-74.503891
+19491,NY,New York,Wyandanch,Suffolk,40.753258,-73.36596
+19492,NY,New York,Wynantskill,Rensselaer,42.687785,-73.63826
+19493,NY,New York,Wyoming,Wyoming,42.83175,-78.083292
+19494,NY,New York,Yaphank,Suffolk,40.837037,-72.917435
+19495,NY,New York,Yonkers,Westchester,40.940716,-73.888317
+19496,NY,New York,York,Livingston,42.871111,-77.885556
+19497,NY,New York,Yorkshire,Cattaraugus,42.53,-78.473056
+19498,NY,New York,Yorktown Heights,Westchester,41.299947,-73.792398
+19499,NY,New York,Yorkville,Oneida,43.111582,-75.275565
+19500,NY,New York,Youngstown,Niagara,43.246075,-79.024545
+19501,NY,New York,Youngsville,Sullivan,41.803238,-74.888776
+19502,NY,New York,Yulan,Sullivan,41.538378,-74.926224
